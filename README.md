@@ -1,4 +1,4 @@
-Organizational materials for the ICPI's ICPI Data Integration and Visualization Group
+Organizational materials for the ICPI's Data Integration and Visualization Group
 
 For additional information, visit the [wiki page](https://github.com/icpi-div/org/wiki).
 
