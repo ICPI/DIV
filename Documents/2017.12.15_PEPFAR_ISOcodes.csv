@@ -1,0 +1,51 @@
+operatingunit,countryname,iso_ou,iso
+Angola,Angola,AGO,AGO
+Botswana,Botswana,BWA,BWA
+Burundi,Burundi,BDI,BDI
+Cameroon,Cameroon,CMR,CMR
+Cote d'Ivoire,Cote d'Ivoire,CIV,CIV
+Democratic Republic of the Congo,Democratic Republic of the Congo,COD,COD
+Ethiopia,Ethiopia,ETH,ETH
+Ghana,Ghana,GHA,GHA
+Kenya,Kenya,KEN,KEN
+Lesotho,Lesotho,LSO,LSO
+Malawi,Malawi,MWI,MWI
+Mozambique,Mozambique,MOZ,MOZ
+Namibia,Namibia,NAM,NAM
+Nigeria,Nigeria,NGA,NGA
+Rwanda,Rwanda,RWA,RWA
+South Africa,South Africa,ZAF,ZAF
+South Sudan,South Sudan,SSD,SSD
+Swaziland,Swaziland,SWZ,SWZ
+Tanzania,Tanzania,TZA,TZA
+Uganda,Uganda,UGA,UGA
+Zambia,Zambia,ZMB,ZMB
+Zimbabwe,Zimbabwe,ZWE,ZWE
+Caribbean Region,Bahamas,RCB,BHS
+Caribbean Region,Barbados,RCB,BRB
+Caribbean Region,Guyana,RCB,GUY
+Caribbean Region,Jamaica,RCB,JAM
+Caribbean Region,Suriname,RCB,SUR
+Caribbean Region,Trinidad & Tobago,RCB,TTO
+Central America Region,Belize,RCB,BLZ
+Central America Region,Costa Rica,RCB,CRI
+Central America Region,El Salvador,RCB,SLV
+Central America Region,Guatemala,RCB,GTM
+Central America Region,Honduras,RCB,HND
+Central America Region,Nicaragua,RCB,NIC
+Central America Region,Panama,RCB,PAN
+Dominican Republic,Dominican Republic,DOM,DOM
+Haiti,Haiti,HTI,HTI
+Asia Regional Program,China,RAS,CHN
+Asia Regional Program,Laos,RAS,LAO
+Asia Regional Program,Thailand,RAS,THA
+Burma,Burma,RAS,MMR
+Cambodia,Cambodia,KHM,KHM
+Central Asia Region,Kazakhstan,RCA,KAZ
+Central Asia Region,Kyrgyzstan,RCA,KGZ
+Central Asia Region,Tajikistan,RCA,TJK
+India,India,IND,IND
+Indonesia,Indonesia,IDN,IDN
+Papua New Guinea,Papua New Guinea,PNG,PNG
+Vietnam,Vietnam,VNM,VNM
+Ukraine,Ukraine,UKR,UKR
