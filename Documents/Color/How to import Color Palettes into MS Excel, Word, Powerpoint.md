@@ -1,5 +1,5 @@
-# How to import Color Palettes into MS
-# Instructions
+# How to import Color Palettes into MS Excel, Word, or PowerPoint
+## Instructions
 1. Download the zip file of Palettes
 2. Right click on the zipped file and Extract the file and save (anywhere)
 
