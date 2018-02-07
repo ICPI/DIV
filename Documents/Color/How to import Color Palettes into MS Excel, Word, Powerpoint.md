@@ -19,9 +19,9 @@
   
     ![](https://user-images.githubusercontent.com/5234106/35936387-214394a0-0c11-11e8-9ec7-32be50bb9181.png)
    
-    * In Word, the color palettes will be under Design -> Colors  OR Design -> Themes
+    * In Word, the color palettes will be under Design -> Colors 
   
-   ![](https://user-images.githubusercontent.com/8933069/35889022-e5965cb6-0b67-11e8-9e94-cdb812779237.png)
+   ![](https://user-images.githubusercontent.com/5234106/35936654-de82b56e-0c11-11e8-9f0f-fb9cdeceecfa.png)
   
     * In PowerPoint, go to Design -> Color (which is on the right hand side)
   
