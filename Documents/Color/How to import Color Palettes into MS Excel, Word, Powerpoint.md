@@ -7,7 +7,7 @@
      
 3. Select all the files within the extracted folder and copy
 
-   ![](https://user-images.githubusercontent.com/8933069/35888799-0c1d3b1c-0b67-11e8-9f02-8077127e866a.png)
+   ![](https://user-images.githubusercontent.com/5234106/35936540-8449373a-0c11-11e8-8486-e49ea1294fbb.png)
    
 4.	Paste into the following folder on your computer:  
     * For a PC, paste the following path into the Windows Explorer, replacing `[yourusername]` -  
