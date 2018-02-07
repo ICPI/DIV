@@ -23,6 +23,6 @@
   
    ![](https://user-images.githubusercontent.com/5234106/35936654-de82b56e-0c11-11e8-9f0f-fb9cdeceecfa.png)
   
-    * In PowerPoint, go to Design -> Color (which is on the right hand side)
+    * In PowerPoint, go to Design -> Color (which is on the right hand side, and may be under a "Variants" menu)
   
    ![](https://user-images.githubusercontent.com/5234106/35936935-bc66ec60-0c12-11e8-9a43-9f8a0e06a70b.png)
