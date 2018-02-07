@@ -25,4 +25,4 @@
   
     * In PowerPoint, go to Design -> Color (which is on the right hand side)
   
-   ![](https://user-images.githubusercontent.com/8933069/35889074-0bc67eb6-0b68-11e8-867d-a6eb31227b35.png)
+   ![](https://user-images.githubusercontent.com/5234106/35936935-bc66ec60-0c12-11e8-9a43-9f8a0e06a70b.png)
