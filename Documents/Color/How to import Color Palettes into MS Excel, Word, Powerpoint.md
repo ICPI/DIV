@@ -17,7 +17,7 @@
 6.	You can find the new color palettes different locations in the differet MS products.
     * In Excel, click on Page Layout -> Colors
   
-    ![](https://user-images.githubusercontent.com/8933069/35888970-adebd520-0b67-11e8-9a11-89c21786071e.png)
+    ![](https://user-images.githubusercontent.com/5234106/35936387-214394a0-0c11-11e8-9ec7-32be50bb9181.png)
    
     * In Word, the color palettes will be under Design -> Colors  OR Design -> Themes
   
