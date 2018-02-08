@@ -13,9 +13,13 @@ I [laid out four logo choices](https://github.com/icpi-div/org/issues/29#issueco
 
 Memembers were in favor of version 2, that brings in a larger PEPFAR ribbon.
 
-While I think it prudent to keep the logo minimal and clean, I put together some options incorporting our name, which I think makes it a bit clunky. If we do need to include a version with text, we believe version 2a would be the best of these, but our recommendation would be to exlude it.
+While I think it prudent to keep the logo minimal and clean, I put together some options incorporting our name, which I think makes it a bit clunky. If we do need to include a version with text, we believe version 2d would be the best of these, but our recommendation would be to exlude it and simply using 2a.
 ![image](https://user-images.githubusercontent.com/8933069/35951857-453ab066-0c4b-11e8-9587-9b4c889a536f.png)
 
 I have also juxiposed the PEPFAR logo with the proposed logo to see how the two work together. I think it provides a nice contrast.
 
 ![image](https://user-images.githubusercontent.com/8933069/35951910-7d3da86a-0c4b-11e8-81b7-c4862fa2505d.png)
+
+## Recommendation
+
+![image](https://user-images.githubusercontent.com/8933069/35951986-ccee7d62-0c4b-11e8-9558-a82e34edfcff.png)
