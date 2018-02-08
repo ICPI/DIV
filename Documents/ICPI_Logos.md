@@ -1,4 +1,4 @@
-## Logo choices
+## New Proposed Logo
 
 ### Original
 Our original logo is getting a little dated and with our new ICPI strategy and rebranded datasets, its time we revisit our logo.
