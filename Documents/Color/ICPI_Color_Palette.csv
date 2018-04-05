@@ -1,25 +1,25 @@
-palette,color,hex,rgb
-Autumn Woods,sapphire ice,#335B8E,51 91 142
-Autumn Woods,mint,#6CA18F,108 161 143
-Autumn Woods,dark khaki,#B5B867,181 184 103
-Autumn Woods,ubuntu,#CC5234,204 82 52
-Autumn Woods,amazon,#D9812C,217 129 44
-Autumn Woods,grullo,#948D79,148 141 121
-Coast of Bohemia,denim,#2166AC,33 102 172
-Coast of Bohemia,moonstone blue,#67A9CF,103 169 207
-Coast of Bohemia,beau blue,#D1E5F0,209 229 240
-Coast of Bohemia,cornell red,#B2182B,178 24 43
-Coast of Bohemia,salmon,#EF8A62,239 138 98
-Coast of Bohemia,unbleached silk,#FDDBC7,253 219 199
-Tidepools,vegas gold,#CEB966,206 185 102
-Tidepools,olivine,#9CB084,156 176 132
-Tidepools,dark sky blue,#6BB1C9,107 177 201
-Tidepools,cornflower blue,#6585CF,101 133 207
-Tidepools,toolbox,#7E6BC9,126 107 201
-Tidepools,rich lilac,#A379BB,163 121 187
-By the Powers of Grayscale,bone,#DDDDDD,221 221 221
-By the Powers of Grayscale,bleakers knop,#B2B2B2,178 178 178
-By the Powers of Grayscale,ford gray,#969696,150 150 150
-By the Powers of Grayscale,battleship gray,#808080,128 128 128
-By the Powers of Grayscale,dim gray,#5F5F5F,95 95 95
-By the Powers of Grayscale,black swan,#4D4D4D,77 77 77
+palette,order,color,hex,rgb
+Autumn Woods,1,sapphire ice,#335b8e,51 91 142
+Autumn Woods,2,mint,#6ca18f,108 161 143
+Autumn Woods,3,dark khaki,#b5b867,181 184 103
+Autumn Woods,4,ubuntu,#cc5234,204 82 52
+Autumn Woods,5,amazon,#d9812c,217 129 44
+Autumn Woods,6,grullo,#948d79,148 141 121
+Coast of Bohemia,1,denim,#2166ac,33 102 172
+Coast of Bohemia,2,moonstone blue,#67a9cf,103 169 207
+Coast of Bohemia,3,beau blue,#d1e5f0,209 229 240
+Coast of Bohemia,4,cornell red,#b2182b,178 24 43
+Coast of Bohemia,5,salmon,#ef8a62,239 138 98
+Coast of Bohemia,6,unbleached silk,#fddbc7,253 219 199
+Tidepools,1,vegas gold,#ceb966,206 185 102
+Tidepools,2,olivine,#9cb084,156 176 132
+Tidepools,3,dark sky blue,#6bb1c9,107 177 201
+Tidepools,4,cornflower blue,#6585cf,101 133 207
+Tidepools,5,toolbox,#7e6bc9,126 107 201
+Tidepools,6,rich lilac,#a379bb,163 121 187
+By the Power of Grayscale,1,bone,#dddddd,221 221 221
+By the Power of Grayscale,2,bleakers knop,#b2b2b2,178 178 178
+By the Power of Grayscale,3,ford gray,#969696,150 150 150
+By the Power of Grayscale,4,battleship gray,#808080,128 128 128
+By the Power of Grayscale,5,dim gray,#5f5f5f,95 95 95
+By the Power of Grayscale,6,black swan,#4d4d4d,77 77 77
