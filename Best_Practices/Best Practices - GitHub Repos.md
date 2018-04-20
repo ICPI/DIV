@@ -19,16 +19,16 @@ At ICPI, we have stood up repositories for each of our clusters to improve proje
   - :heavy_check_mark: Analysis that is ongoing or required quarterly/annually.
 - Usage
   - :no_entry_sign: Analysis done for self or agency that doesn't serve the broader ICPI.
-  - :moneybag: Scripts or tools that help other analysis or field members perform their tasks more efficiency.
-  - :moneybag: Development around an ICPI tool or analysis.
+  - :heavy_check_mark: Scripts or tools that help other analysis or field members perform their tasks more efficiency.
+  - :heavy_check_mark: Development around an ICPI tool or analysis.
 - Complexity
   - :no_entry_sign: Code that is focused on relatively straight forward tasks such as simply subsetting a dataset.
-  - :moneybag: Multiple data sources and scripts requires to conduct analysis.
-  - :moneybag: R functions
+  - :heavy_check_mark: Multiple data sources and scripts requires to conduct analysis.
+  - :heavy_check_mark: R functions
 - Audience
   - :no_entry_sign: Self
   - :no_entry_sign: Trainings where the product is simiply a presentation
-  - :moneybag: ICPI or field colleagues
+  - :heavy_check_mark: ICPI or field colleagues
 
 ### What should I include in my repository?
 
@@ -38,4 +38,4 @@ After you create a repository, it's your role to populate it and maintain it. Be
 - Link to source data - While much of the data we work with is SBU and cannot be posted, you still have an obligation to document what data you are using and where it is sourced. You should add this informnation to a README.md in your `RawData` folder.
 - Code - The whole purpose of Github is around version control and collaboration of code. You should be posting your code in a relevant folder (eg `R`, `Scripts`, `DoFiles`, etc). This makes your code transparent and accessible.
 - Documents (non-sbu) and other contextual information - If you need further space to document contextual information, do so by including documents or other relevant information in a `Documents` folder or in the GitHub wiki.
-- .gitignore - Lastly, you should also include a .gitignore, which allows you to ignore certain types of files or folder on your git/GitHub commits
+- `.gitignore` - Lastly, you should also include a `.gitignore` file, which allows you to ignore certain types of files or folder on your git/GitHub commits (i.e. keep you from inadvertently upload a SBU datset or visual).
