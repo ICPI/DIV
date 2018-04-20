@@ -13,10 +13,10 @@ ICPI has a organizational account on GitHub, which allows us to collaborate more
 
 ### When should I create a repository?
 
-At ICPI, we have stood up repositories for each of our clusters to imporove project management, capitalizing on Github's functionality of tracking tasks via ["Issues"](https://guides.github.com/features/issues/). Typically, the standard practice is to have one repository for every project so that each project is self contained. We will have a proliferation of repos if we create one for every project that comes to ICPI, so we've tried to lay out a few guidelines as when it's best to create a new repo. And, if you are unsure, it's always good to ask and get a second opinion.
+At ICPI, we have stood up repositories for each of our clusters to improve project management, capitalizing on Github's functionality of tracking tasks via ["Issues"](https://guides.github.com/features/issues/). Typically, the standard practice is to have one repository for every project so that each project is self contained. We will have a proliferation of repos if we create one for every project that comes to ICPI, so we've tried to lay out a few guidelines as when it's best to create a new repo. And, if you are unsure, it's always good to ask and get a second opinion.
 - Frequency
   - :no_entry_sign: One time requests, eg subsetting a dataset. This should instead be stored in the related cluster's repo.
-  - :moneybag: Analysis that is ongoing or required quarterly/annually.
+  - :heavy_check_mark: Analysis that is ongoing or required quarterly/annually.
 - Usage
   - :no_entry_sign: Analysis done for self or agency that doesn't serve the broader ICPI.
   - :moneybag: Scripts or tools that help other analysis or field members perform their tasks more efficiency.
