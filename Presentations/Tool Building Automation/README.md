@@ -1,4 +1,10 @@
-### Reference Materials
+### Overview
+
+Date: April 26, 2018, 1pm
+
+Purpose: Discuss what automating a tool and its production looks like and how to streamline your own processes.
+
+### Reference Material
 
 The quick poll we'll be taking can be [accessed here](https://docs.google.com/forms/d/e/1FAIpQLSe2DfAuHCJnw3C_vJMt5gL-uN56UmI185adYRLwCDrIKJI2Ig/viewform?usp=sf_link).
 
