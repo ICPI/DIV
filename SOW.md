@@ -1,73 +1,52 @@
-# Data Integration and Visualization (DIV) Team Scope of Work
+Data Integration and Visualization (DIV) Objective: The DIV Team supports ICPI and PEPFAR through promoting innovative analyses and visualizations. DIV is responsible for coordinating and developing best practices for data integration and visualization through two main sub-groups/pillars: 1) Business Intelligence, and 2) Guidance and Capacity Building. Brittney Shook (DOD Agency Lead) serves as a representative from ICPI Leadership, providing additional insight from across the clusters.
 
-The DIV Team supports ICPI and PEPFAR through promoting innovative analyses and visualizations. DIV is responsible for coordinating and developing best practices for data integration and visualization through three main sub-groups/pillars: 
-Business Intelligence, Guidance and Capacity Building, and Knowledge Management.
+The DIV advances ICPI&#39;s objectives in Innovation, Capacity Building, and Efficiencies.
 
-### Business Intelligence System Coordination:
+The DIV Team functions within the Coordination Cluster, coordinating projects with the DAQ, OCM, ICEE, and ECT Liaisons where appropriate. The below diagram identifies the DIV&#39;s placement within the ICPI Organizational Structure and its sub groups.
 
-This sub-group will focus on transitioning existing visualizations into Panorama and driving Analytic Work Space activities, including innovation management and new visuals in the work spaces. This team will work with technical teams to set requirements around visualizations and back-end data needs.
+![image](https://user-images.githubusercontent.com/5234106/42106761-226a56e6-7ba3-11e8-839e-9a8d90c45828.png)
+
+## Coordination within ICPI (All Sub-Groups)
+
+To improve efficiencies of workflows and analysis within the ICPI pertaining to data, analysis, and visualization, the DIV coordinates with and across the following groups and points:
+
+1. Facilitate improved coordination within ICPI by integrating representatives from the DAQ and PRIME into the DIV&#39;s sub-groups.
+2. Promote greater coordination around data, analysis, and visualization between the DAQ and PRIME by participating in Bi-weekly DAQ meetings, and weekly DAQ/PRIME/DATIM meetings.
+3. Coordinate activities with the ICEE team around ICPI capacity building.
+4. Transmit DIV products (e.g. Outcomes includes draft/completed projects, products, trainings, etc.) to OCM in a timely manner to aid in their prompt review and/or dissemination.
+5. Establish POCs for analytic clusters to liaise with DIV and keep abreast of relevant BI requests
+
+Specific collaboration with DAQ:
+- ICPI training on data management and processing best practices (using open source platforms) to be done in collaboration with DAQ (e.g., R training)
+- Develop methods &amp; best practices for structuring external data sources in order to facilitate aligning disjointed data sources in Panorama&#39;s Analytic Workspaces
+- Explore innovative data management, processing and visualization methods using open source platforms including R-Shiny, Tableau
+
+![image](https://user-images.githubusercontent.com/5234106/42106827-5fbc0ad0-7ba3-11e8-9b2d-24d4df1fa927.png)
+
+## Business Intelligence System Coordination (Leads: Jess Brown, Katie O&#39;Connor)
+
+**BI Objective:** Transition existing visualizations into Panorama and driving Analytic Work Space activities, including innovation management and new visuals in the work spaces.This team will work with technical teams to set requirements around visualizations and back-end data needs.
+
+**Main projects and activities:**
 
 1. Continue to translate routine tools in to existing PEPFAR BI tool (i.e., Panorama)
 
-   a. Communicate directly with PRIME on visuals for Panorama (invited to PRIME Panorama meetings when needed)
-   
-   b.	Prioritize and rank tools and visuals for integration
-   
-   c.	Set requirements for tools to be integrated
-   
-   d. PRIME/ICPI Bridge Meeting: quarterly priority-setting meetings
+1. Communicate directly with PRIME on visuals for Panorama: PRIME/ICPI Bridge Meeting: quarterly priority-setting meetings
+2. Prioritize and rank tools and visuals for integration
+3. Set requirements for tools to be integrated
 
-2. Continue to work on and expand the role of the analytic workspaces in Microstrategy, and support the development of analytic workspaces that match the needs of country teams
+1.  Continue to work on and expand the role of the analytic workspaces in Microstrategy, and support the development of analytic workspaces
 
-   a.	Short-term: Lead Phase II of Analytic Work Spaces (through end of August)
-   
-   b.	Medium-term: Provide feedback into discussions for how Analytic Work Spaces will be set up and distributed among ICPI analysts
-   
-   c.	Long-term: Actively use Analytic Work Spaces once rolled out to larger user group, submit feedback/comments on improvements to PRIME, and work to identify visuals from Work Spaces to integrate into Panorama POART tool for all users.
+1. Short-term: Lead Phase II of Analytic Work Spaces (through end of August)
+2. Medium-term: Provide feedback into discussions for how Analytic Work Spaces will be set up and distributed among ICPI analysts
+3. Long-term: Actively use Analytic Work Spaces once rolled out to larger user group, submit feedback/comments on improvements to PRIME, and work to identify visuals from Work Spaces to integrate into Panorama POART tool for all users.
 
-### Guidance & Capacity Building: 
+## Guidance &amp; Capacity Building (Leads: Aaron Chafetz, Katya Noykhovich)
 
-This sub-group will focus on improving visualizations produced by ICPI staff by identifying the best practices for analytics, training staff on how to perform and stand up analyses or create visualizations, and working to create style guides to assist with data analysis and visualization. 
+**GCB Objective:** Improve workflow, analysis, and visualizations produced by ICPI staff, headquarters and the field by identifying the best practices, training staff on developing better analyses and visualizations, and creating guides to assist with data analysis and visualization.
 
-3. Develop standards of practice for documentation, analysis and visualization using business intelligence software (including Excel, GitHub, Tableau, R-Shiny, etc.), statistical software (including Stata, R, SAS, SPSS) and spatial analytic software (including ArcGIS and QGIS) in integration, and visualization routinely collected PEPFAR data. This may include software testing for software integration as needed.
+**Main projects and activities:**
 
-   a.	Create and provide trainings on utilizing recommended practices as well as software to perform analyses on PEPFAR data.     
-   
-   b.	Develop guides for use by analysts to promote cohesion of work at ICPI
-
-### Knowledge Management
-Viz Library changed to Knowledge Management, finished out sprint team project. Ownership or collaboration with knowledge management/Viz library. Some items have been taken up by ICEE and in the ICPI strategic plan.
-
-Visualization Library & Stakeholder Engagement: This sub-group will  identifying existing ICPI and field visualizations and coordinating with field users and other stakeholders external to ICPI to understand how visualizations were created (what were the key questions, data sources, and processes for creation). This group will also be responsible for coordinating analytic requests from external stakeholders that may benefit from using multiple existing visualizations. 
-
-Proposed products/outputs: Documented catalogue of active ICPI and known field visualizations, including indications on datasets used, attributes included, and other identifying information for the visualization. Additionally, creating workplans for engagement with external stakeholders as needs arise.Create a repository of visuals by key question, after reviewing existing analyses and visuals (e.g., from country team presentations, ICPI tools, partner tools etc.). 
-   
-   a.	Maintain catalogue of existing visuals, tagged for common requested elements, to share with country teams to show ICPI’s capabilities as potential starting points for in-country dashboards
-   
-   b.	The repository may also be used to identify best practices for tool-building and any programmatic gaps, focusing both on MER tools as well as cross-cutting best practices in coordination with SIMS, EA, and other workstreams.
-
-
-### DAQ Coordination – follow up with DAQ
-Cross-cutting activity: May be performed by all three sub-groups as data needs are identified. Recommendation to have one individual in the group serve as the point of contact for working with DAQ and PRIME to coordinate data needs and updates. Outputs include calculated indicator request forms and other formal data analysis request documents. Work with tool owners to document common data needs, including calculated indicators and other analytic requests for MER, EA, and SIMS, and identify correct group to update datasets and data systems where applicable 
-   
-   a. Receive requests from work stream leads, identify similarities across work streams and clearly document new requirements
-
-   b.	Communicate directly with the appropriate team on data requirement needs, including working with DAQ to bring these to DATIM, PDH team for integration into systems as needed or deemed applicable
-   
-   c.	QC Pano? 
-   
-   d. PRIME/ICPI Bridge Meeting: Bi-weekly DAQ meetings, weekly DAQ/PRIME meetings
-   
- ### Administrative Information
- DIV Meetings and Staffing 
-- Meetings:
-   - Full group: Every two weeks
-   -	Small co-leads and sub-group leads group: Alternate weeks, with attendance also expected at full group meetings
-  -	Members:  Designated by Agency Leads and as interested
-  
-### Staff Interest: Proposed Sub-Groups (L=co-lead) (UPDATE LIST BASED ON EMAIL RESPONSE)
-- Lead: Brittney Shook
-- BI: Jess (L) Yaa, Arthur Fitzmaurice, Imran (for Work Spaces), Jamie
-- Guidance & Capacity Building: Aaron (L), Katya (L), Brittney Baack, Imran, Shaylee, Kristy
-- Visualization Library & Stakeholder Engagement: Katie O (L), Noah Bartlett, Tom K, Jenn Drummond, Kimi Sato, Michelle W-S
-
+1. Develop standards of practice for documentation, analysis and visualization using collaborative/version control tools (e.g. git/GitHub), business intelligence software (e.g.  Tableau, R-Shiny), statistical software (e.g. Excel, Stata, R, SAS, SPSS) and spatial analytic software (e.g. ArcGIS, QGIS).
+2. Develop and facilitate trainings on utilizing recommended practices as well as software to perform analyses and create visualization using PEPFAR data.
+3. Develop guides for use by analysts to promote cohesion of ICPI activities and deliverables.
