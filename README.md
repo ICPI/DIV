@@ -4,7 +4,8 @@ Organizational materials for the ICPI's Data Integration and Visualization Group
 For additional information, visit the [wiki page](https://github.com/icpi-div/org/wiki).
 
 ### Associated Repos
- - [tableau_training](https://github.com/ICPI/tableau_training) - Training materials and resources for an ICPI lead Tableau training scheduled for June 2018
+ - [R Training](https://github.com/ICPI/R-Training) - Training materials and resources for ICPI R Training in August 2018 (Sessions 1 & 2 posted) 
+ - [Tableau_Training](https://github.com/ICPI/tableau_training) - Training materials and resources for an ICPI lead Tableau training in June 2018
  - [TrainingDataset](https://github.com/ICPI/TrainingDataset) - Contains code and data to create a masked dataset for use in ICPI training where data/examples will be posted publically
 
 
