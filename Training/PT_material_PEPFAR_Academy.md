@@ -17,5 +17,12 @@
 1. Filtering
 1. Including Slicers
 1. What are calculated indicators and how to create them
-1. Building pivot charts
-1. Components to consider when building an Excel tool
+1. Building pivot charts **(Shazad)**
+    - Benefits of pivot chart
+    - Pivot chart button
+    - Hiding all fields
+1. Components to consider when building an Excel tool **(Shazad)**
+    - converting raw data to 'excel table' first
+    - naming the pivot tables
+    - tab structure of Excel tool
+    - 'refresh' the data
