@@ -10,6 +10,12 @@
       - filtering
       - updates with new datasets
 1.  Data structure (tidy data) **(Aaron)**
+    - standard/consistent way to organize data in datasets
+    - facilitate data exploration
+    - principles (Wickham)
+      - Each variable must have its own column.
+      - Each observation must have its own row.
+      - Each value must have its own cell.
 1. How to create a pivot table
 1. Different parts of a pivot table
 1. Adding in data
