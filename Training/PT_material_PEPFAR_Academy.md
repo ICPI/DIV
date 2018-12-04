@@ -31,6 +31,8 @@
 1. Filtering **(Shaylee)**
 1. Including Slicers **(Shaylee)**
 1. What are calculated indicators and how to create them **(Imran)**
+    - percent achievement
+    - yield
 1. Building pivot charts **(Shazad)**
     - Benefits of pivot chart
     - Pivot chart button
