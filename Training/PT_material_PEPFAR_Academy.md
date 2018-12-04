@@ -29,8 +29,9 @@
     - Unzipping downloaded dataset and renaming, if needed (for scripts) 
     - Import text file steps
 1. How to create a pivot table  **(Shazad)**
-    - Insert pivot table button
+    - 'Insert pivot table' button
     - Ensure correct range is picked up
+    - Mention conversion to excel table will be discussed in different vid
 1. Different parts of a pivot table  **(Katya)**
 1. Structural options **(Katya)**
     - different views - tabular, outline
