@@ -27,8 +27,10 @@
     - Accessing through Panorama
     - Accessing throough DATIM Genie extracts 
     - Unzipping downloaded dataset and renaming, if needed (for scripts) 
+    - Import text file steps
 1. How to create a pivot table  **(Shazad)**
-    - 
+    - Insert pivot table button
+    - Ensure correct range is picked up
 1. Different parts of a pivot table  **(Katya)**
 1. Structural options **(Katya)**
     - different views - tabular, outline
