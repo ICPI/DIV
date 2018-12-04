@@ -1,6 +1,8 @@
 ### Pivot Table Training
 
-
+1.  Your mission, should you choose to accept **(Imran)**
+    - aka background story, but fun! 
+    - sample 'real-life' question to solve
 1.  What is a pivot table? **(Aaron)**
     - Appearance - could look similar, but purpose is different
     - Raw data compared to summary
