@@ -24,7 +24,11 @@
       - Each value must have its own cell.
 1. Accessing and downloading data **(Shazad)**
     - MSD (will use training dataset)- see release notes in Pano
+    - Accessing through Panorama
+    - Accessing throough DATIM Genie extracts 
+    - Unzipping downloaded dataset and renaming, if needed (for scripts) 
 1. How to create a pivot table  **(Shazad)**
+    - 
 1. Different parts of a pivot table  **(Katya)**
 1. Structural options **(Katya)**
     - different views - tabular, outline
