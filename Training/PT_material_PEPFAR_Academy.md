@@ -1,5 +1,6 @@
 ### Pivot Table Training
 
+
 1.  What is a pivot table? **(Aaron)**
     - Appearance - could look similar, but purpose is different
     - Raw data compared to summary
@@ -9,6 +10,8 @@
       - dyanmic tables
       - filtering
       - updates with new datasets
+1.  Why and when to use a pivot table? **(Catherine)** 
+    - difference between standard platforms 
 1.  Data structure (tidy data) **(Aaron)**
     - standard/consistent way to organize data in datasets
     - facilitate data exploration
@@ -16,13 +19,15 @@
       - Each variable must have its own column.
       - Each observation must have its own row.
       - Each value must have its own cell.
-1. How to create a pivot table
-1. Different parts of a pivot table
-1. Adding in data
-1. Structural options
-1. Filtering
-1. Including Slicers
-1. What are calculated indicators and how to create them
+1. Accessing and downloading data **(Shazad)**
+    - MSD (will use training dataset)- see release notes in Pano
+1. How to create a pivot table  **(Shazad)**
+1. Different parts of a pivot table  **(Katya)**
+1. Structural options **(Katya)**
+    - different views - tabular, outline
+1. Filtering **(Shaylee)**
+1. Including Slicers **(Shaylee)**
+1. What are calculated indicators and how to create them **(Imran)**
 1. Building pivot charts **(Shazad)**
     - Benefits of pivot chart
     - Pivot chart button
@@ -32,3 +37,4 @@
     - naming the pivot tables
     - tab structure of Excel tool
     - 'refresh' the data
+1. Link to resources (ICPI Onboarding Training) **( )**
