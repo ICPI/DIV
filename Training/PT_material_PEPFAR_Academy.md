@@ -1,4 +1,5 @@
-### Pivot Table Training
+### Intro to Data Manipulation
+#### Section 1: How to look at MER data in Excel
 
 1.  Your mission, should you choose to accept **(Imran)**
     - aka background story, but fun! 
