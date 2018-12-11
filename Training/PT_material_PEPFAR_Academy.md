@@ -36,7 +36,10 @@
 1. Structural options **(Katya)**
     - different views - tabular, outline
 1. Filtering **(Shaylee)**
+    - adding fields to "FILTER" box
 1. Including Slicers **(Shaylee)**
+    - SLICER button
+    - reporting connections
 1. What are calculated indicators and how to create them **(Imran)**
     - percent achievement
     - yield
