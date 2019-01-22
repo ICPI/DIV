@@ -5,7 +5,7 @@
     - aka background story, but fun!
     - sample 'real-life' question to solve
     - quick note on excel version
-1.  What is a pivot table? **(Aaron)**
+1.  [What is a pivot table? **(Aaron)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#2-what-is-a-pivot-table-aaron)
     - Appearance - could look similar, but purpose is different
     - Raw data compared to summary
     - Purpose/Benefits
@@ -16,7 +16,7 @@
       - updates with new datasets
 1.  Why and when to use a pivot table? **(Catherine)**
     - difference between standard platforms
-1.  Data structure (tidy data) **(Aaron)**
+1.  [Data structure (tidy data) **(Aaron)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#4-data-structure-tidy-data-aaron)
     - standard/consistent way to organize data in datasets
     - facilitate data exploration
     - principles (Wickham)
@@ -72,7 +72,7 @@ We can use a pivot table to summarize this dataset. By using a pivot table, we c
 
 An additional benefit of pivot tables is their structure. If we get new data for the second quarter, we can pop that in and update or refresh the pivot tables. This allows us to setup our exploratory analysis once instead of repeating the same process each quarter.
 
-In sum, pivot tables allow us to take raw data, aggregate it up, and summarize it across different groupings or filters. 
+In sum, pivot tables allow us to take raw data, aggregate it up, and summarize it across different groupings or filters.
 
 ### 4. Data structure (tidy data) **(Aaron)**
 
