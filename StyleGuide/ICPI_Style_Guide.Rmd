@@ -2,7 +2,7 @@
 title:  "ICPI Style Guide"
 author: "Aaron Chafetz"
 date:   "January 2019"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
