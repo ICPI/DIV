@@ -23,7 +23,7 @@ Specific collaboration with DAQ:
 
 ![image](https://user-images.githubusercontent.com/5234106/42106827-5fbc0ad0-7ba3-11e8-9b2d-24d4df1fa927.png)
 
-## Business Intelligence System Coordination (Leads: Katie O&#39;Connor and Katya Noychovich)
+## Business Intelligence System Coordination (Leads: Katie O&#39;Connor and Katya Noykhovich)
 
 **BI Objective:** Transition existing visualizations into Panorama and driving Analytic Work Space activities, including innovation management and new visuals in the work spaces.This team will work with technical teams to set requirements around visualizations and back-end data needs.
 
