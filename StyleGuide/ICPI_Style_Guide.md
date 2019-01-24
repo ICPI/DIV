@@ -5,11 +5,7 @@ January 2019
 
 ### Overview
 
-The main purpose of a style guide is to provide an organization with
-guide rails on how to present data inline with an overall vision so that
-all the organization’s visuals have a similar look and feel. For
-example, in the below images, it’s easy to pick out which organizations
-produced these graphics
+The main purpose of a style guide is to provide an organization with guide rails on how to present data inline with an overall vision so that all the organization's visuals have a similar look and feel. For example, in the below images, it's easy to pick out which organizations produced these graphics
 
 ![Five Thirty Eight](RefImages/fivethirtyeight.png)
 
@@ -17,102 +13,73 @@ produced these graphics
 
 ![The Economist](RefImages/theeconomist.png)
 
-Each of these graphics fits a particular style that matches the rest of
-what that organizations produces, whether it be particular font, colors,
-or layout.
+Each of these graphics fits a particular style that matches the rest of what that organizations produces, whether it be particular font, colors, or layout.
 
-ICPI aims to create a cohesive branding style within PEPFAR to make it
-clear what products and visuals are produced in our shop. The rest of
-this Style Guide will layout the aims of our orgnazation. It’s important
-to recognize that what is expounded upon below are best pratices and a
-broader guide, these are not manditory rules to follow.
+ICPI aims to create a cohesive branding style within PEPFAR to make it clear what products and visuals are produced in our shop. The rest of this Style Guide will layout the aims of our orgnazation. It's important to recognize that what is expounded upon below are best pratices and a broader guide, these are not manditory rules to follow.
 
 ### COLOR
 
-ICPI DIV has put together a number of different colors pallettes to use
-with visualizations.
+ICPI DIV has put together a number of different colors pallettes to use with visualizations.
 
 ![ICPI Colors](RefImages/icpi_colors.png)
 
-There are four different palettes, including a grascale one. The primary
-colors that should be used are the **first two within each color
-palette** in the table above; the remainer are secondary colors. While
-there are multiple options, the preference, in order to boost
-consistency, would be to use **Autumn Woods**.
+There are four different palettes, including a grascale one. The primary colors that should be used are the **first two within each color palette** in the table above; the remainer are secondary colors. While there are multiple options, the preference, in order to boost consistency, would be to use **Autumn Woods**.
 
-**Gray** should also feature prominently as a **default for background
-colors**, i.e. axis lines, texts, etc, rather than defaulting to black.
+**Gray** should also feature prominently as a **default for background colors**, i.e. axis lines, texts, etc, rather than defaulting to black.
 
 ### FONT
 
-Fonts are another important aspect of consistent branding. The default
-font for ICPI products is a combination of **Calibri** and **Calibri
-Light**. Titles, bolded text, text that should be emphasized or stand
-out from a colored background should be Calibri, where subtitles,
-paragraph text, captions or axis text/numbering should be **Calibri
-Light**
+Fonts are another important aspect of consistent branding. The default font for ICPI products is a combination of **Calibri** and **Calibri Light**. Titles, bolded text, text that should be emphasized or stand out from a colored background should be Calibri, where subtitles, paragraph text, captions or axis text/numbering should be **Calibri Light**. Titles should be written in all caps.
 
-Size also plays in an an important determinant of emphasis. For
-graphics, titles should have a size 16 font, subtitles 14, axis labels
-12, and captions 9.
+Size also plays in an an important determinant of emphasis. For graphics, titles should have a size 16 font, subtitles 14, axis labels 12, and captions 9.
+
+Font color is also an important component that adds or detracts focus from you main message. Since the title is a focal point, it's font color should be black. All other text should be primarly a lighter gray shade, included axis titles, captions, axis labels, etc. Direct data labels may be black, a light gray, or match the bar/dot/line/etc color depending on its importance or association.
 
 ### VISUALS
 
-The primary purpose of this guide is to support the creation of data
-visualizations. The following sections layout important aspects of
-visualizing PEPFAR data.
+The primary purpose of this guide is to support the creation of data visualizations. The following sections layout important aspects of visualizing PEPFAR data.
 
 #### Chart Choice
 
-There is a wealth of chat options to choose from. The Financial Times
-produced a great graphic that depicits what chart types should be used
-based on the story you’re trying to tell with your data. For instance,
-if you wanted to show how a budget was broken down, that would fall
-under the “Part to Whole” section and a Treemap might be a good option
-to pursue.
+There is a wealth of chat options to choose from. The Financial Times produced a great graphic that depicits what chart types should be used based on the story you're trying to tell with your data. For instance, if you wanted to show how a budget was broken down, that would fall under the "Part to Whole" section and a Treemap might be a good option to pursue.
 
 ![FT Visual Vocabulary](RefImages/ft_visualvocabulary.png)
 
-Working in PEPFAR, we see a host of different chart types seen in the
-above graphic: heat maps, ordered bars, dot plots, slope charts,
-population pyraminds, paired bar, line chart, bullet charts, and scatter
-plots to name a few. We will dive into a number of different element to
-keep in mind that are applicable regardless of what type you choose.
+Working in PEPFAR, we see a host of different chart types seen in the above graphic: heat maps, ordered bars, dot plots, slope charts, population pyraminds, paired bar, line chart, bullet charts, and scatter plots to name a few. We will dive into a number of different element to keep in mind that are applicable regardless of what type you choose.
 
-#### Format
+#### Aesthetics
 
 The first and most important element when we discuss styling is format.
-Formating relates to the aesthetics we ascrible to a visual.
 
 ![Bar Chart](RefImages/barchart.png)
 
-Let’s start with the composition. The above graph has a title, subtitle,
-x-axis labels, y axis labels, gridlines, and a caption.
+-   **TEXT** - Adding context to your visuals is an extremely imporant element. This context can come in a number of different forms: title, subtitle, captions, axis labels, legends, and data point labels. All text should use the font laid out in the above section (**see Font**).
+-   Titles - All graphs should have a title that give an overall message about what you, the analyst, are trying to convey. Above titles like "GDP by Country." This title informs the reader that they are looking at GDP, but it would be stronger if you emphasize your message, e.g. "A wide gap exists between the leading sode brand and the others." **Titles should be written in all upper case.**
+-   Subtitle - You can and should convey additional imformation in the subtitle which should be a full sentence describing what is going on.
+-   Axis labels - Axis label can be excluded where the contents are obvious or included in the title or subtitle. For instance, a line chart with years on the x axis does not need a x axis label of "Year".
+-   Caption - Information such as sources or notes about calculations should be included in the visual. This font can be
+-   Legend - **see LEGENDS**
 
-All graphs should have a title that give an overall message about what
-you, the analyst, are trying to convey. Above titles like “GDP by
-Country.” This title informs the reader that they are looking at GDP,
-but it would be stronger if you emphasize your message, e.g. “A wide gap
-exists between the leading sode brand and the others.” You can and
-should convey additional imformation in the subtitle which should be a
-full sentence describing what is going on.
+-   **COLOR** - Another important feature of this graph is that it uses colors strategically. Rather than color all the bars the same or paint a rainbow with them, the graph above uses a dark color for Site B to highlight it and draw empahsis. Use color sparingly; it should be used to convey a message.
 
-Another important feature of this graph is that it uses colors
-strategically. Rather than color all the bars the same or paint a
-rainbow with them, the graph above uses a dark color for Site B to
-highlight it and draw empahsis.
+-   **GRIDLINES** - Gridlines often get lumped into the chart junk category, i.e. they detract from the purpose of the graph. Gridline can help where strategically added, like making it easier to read. Gridlines should be made a light shade of gray and used sparingly.
 
-The visual also makes use of the available spacing. Bars have a decent
-sized gap between them and the x and y axes only extend as far as neded
-without having an excess of white space.
+-   **TICK MARKS AND AXIS LINES** - Tick marks are a feature often included by default, but do not serve a purpose and fall into the chart junk category. They should be excluded from your graphics. Axis line are not always necessary and can be included in your visuals; they should be shaded a light gray to keep them from "popping" or being distracting.
 
-Boarder and ticks are removed (often referred to as chart junk as they
-can be distracting and take empahsis away from your message with the
-plot) and the gridlines are sublte, colored gray instead of a harsh
-black.
+-   **AXIS TITLES AND LABELS** - Axis titles should be short and to the point so as to convey the relevant information and not detract from the overall visual. It is important to think about your axis labels. They should be mininmal as well. Often however, axis labels can be a bit longer than the alloted space on the axis and visual software automatically reorients them diagonally to fit them. Diagnonal text makes it more difficult for the audience to read and should be avoided. An easy solution is to flip the orientation of your chart so the long text is on the y axis rather than the x axis.
 
-#### Ordering
+-   **NUMBER FORMATS** - Number formatting can be easily overlooked. Where numbers spill over into the thousands or millions, commas should be added to make it easier to read. Percentages can either have the percent symbol or have it included in the title/subtitle/axis label. Percentages should not be listed as decimals, eg .49 should be written as 49%. Where possible, you should reduce clutter by rounding numbers. This applies to decimals (there is often false precision using decimals and they crowd up the display) as well as to large numbers, eg 2,000,000 could be shortened to 2m or 2M.
 
-#### Dual Axes
+-   **LEGENDS** - It is important for readers to know what the colors used in a graph related to. However, included a legend off to the side can make it more difficult for the read as they have to flip back and forth between the graph and legend and they can take up a lot of valuable real estate. Instead, the analyst should direct labeling where possible or should integrate the legend into the graph title/subtitle.
 
-#### Labeling
+-   **ORDERING** - The default ordering for graphs often is alpabetical, which should be avoided. Graphs should be ordered strategically. For instance you may want to order on a particular category or value. This effort helps convey a focus and underlying purpose of the graph.
+
+-   **3D** - Visual graphs should be kep to 2D. There is nothing added with the extra dimension and should be completely avoided. They fall into squarely into the chart junk category.
+
+The visual also makes use of the available spacing. Bars have a decent sized gap between them and the x and y axes only extend as far as neded without having an excess of white space.
+
+-   **DUAL AXIS**
+
+-   **LABELING**
+
+-   **ELEMENT SIZE AND SPACING**
