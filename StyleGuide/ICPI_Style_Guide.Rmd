@@ -8,8 +8,6 @@ output: rmarkdown::github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![Logo](RefImages/logo.png)
-
 ### Overview
 
 The main purpose of a style guide is to provide an organization with guide rails on how to present data inline with an overall vision so that all the organization's visuals have a similar look and feel. For example, in the below images, it's easy to pick out which organizations produced these graphics

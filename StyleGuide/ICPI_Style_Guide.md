@@ -2,8 +2,6 @@ ICPI Style Guide
 ================
 Updated: January 2019
 
-![Logo](RefImages/logo.png=250x)
-
 ### Overview
 
 The main purpose of a style guide is to provide an organization with
