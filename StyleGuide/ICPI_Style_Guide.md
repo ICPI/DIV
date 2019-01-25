@@ -21,20 +21,20 @@ or layout.
 
 ICPI aims to create a cohesive branding style within PEPFAR to make it
 clear what products and visuals are produced in our shop. The rest of
-this Style Guide will layout the aims of our orgnazation. It’s important
-to recognize that what is expounded upon below are best pratices and a
-broader guide, these are not manditory rules to follow.
+this Style Guide will layout the aims of our organization. It’s
+important to recognize that what is expounded upon below are best
+practices and a broader guide, these are not mandatory rules to follow.
 
 ### COLOR
 
-ICPI DIV has put together a number of different colors pallettes to use
+ICPI DIV has put together a number of different colors palettes to use
 with visualizations.
 
 ![ICPI Colors](RefImages/icpi_colors.png)
 
-There are four different palettes, including a grascale one. The primary
-colors that should be used are the **first two within each color
-palette** in the table above; the remainer are secondary colors. While
+There are four different palettes, including a gray scale one. The
+primary colors that should be used are the **first two within each color
+palette** in the table above; the remainder are secondary colors. While
 there are multiple options, the preference, in order to boost
 consistency, would be to use **Autumn Woods**.
 
@@ -56,7 +56,7 @@ graphics, titles should have a size 16 font, subtitles 14, axis labels
 
 Font color is also an important component that adds or detracts focus
 from you main message. Since the title is a focal point, it’s font color
-should be black. All other text should be primarly a lighter gray shade,
+should be black. All other text should be primary a lighter gray shade,
 included axis titles, captions, axis labels, etc. Direct data labels may
 be black, a light gray, or match the bar/dot/line/etc color depending on
 its importance or association.
@@ -70,17 +70,17 @@ visualizing PEPFAR data.
 #### Chart Choice
 
 There is a wealth of chat options to choose from. The Financial Times
-produced a great graphic that depicits what chart types should be used
+produced a great graphic that depicts what chart types should be used
 based on the story you’re trying to tell with your data. For instance,
 if you wanted to show how a budget was broken down, that would fall
-under the “Part to Whole” section and a Treemap might be a good option
+under the “Part to Whole” section and a Tree map might be a good option
 to pursue.
 
 ![FT Visual Vocabulary](RefImages/ft_visualvocabulary.png)
 
 Working in PEPFAR, we see a host of different chart types seen in the
 above graphic: heat maps, ordered bars, dot plots, slope charts,
-population pyraminds, paired bar, line chart, bullet charts, and scatter
+population pyramids, paired bar, line chart, bullet charts, and scatter
 plots to name a few. We will dive into a number of different element to
 keep in mind that are applicable regardless of what type you choose.
 
@@ -90,20 +90,19 @@ The first and most important element when we discuss styling is format.
 
 ![ICPI Visualization Catalogue](RefImages/viz_catalogue.png)
 
-  - **TEXT** - Adding context to your visuals is an extremely imporant
+  - **TEXT** - Adding context to your visuals is an extremely important
     element. This context can come in a number of different forms:
     title, subtitle, captions, axis labels, legends, and data point
     labels. All text should use the font laid out in the above section
     (**see Font**).
     
       - Titles - All graphs should have a title that give an overall
-        message about what you, the analyst, are trying to convey. Above
-        titles like “GDP by Country.” This title informs the reader that
-        they are looking at GDP, but it would be stronger if you
-        emphasize your message, e.g. “A wide gap exists between the
-        leading sode brand and the others.” **Titles should be written
-        in all upper case.**
-      - Subtitle - You can and should convey additional imformation in
+        message about what you, the analyst, are trying to convey. A
+        titles like “GDP by Country” informs the reader that they are
+        looking at GDP, but it would be stronger if you emphasize your
+        message, e.g. “A wide gap exists between the leading economies
+        and the others.” **Titles should be written in all upper case.**
+      - Subtitle - You can and should convey additional information in
         the subtitle which should be a full sentence describing what is
         going on.
       - Axis labels - Axis label can be excluded where the contents are
@@ -117,13 +116,14 @@ The first and most important element when we discuss styling is format.
   - **COLOR** - Another important feature of this graph is that it uses
     colors strategically. Rather than color all the bars the same or
     paint a rainbow with them, the graph above uses a dark color for
-    Site B to highlight it and draw empahsis. Use color sparingly; it
+    Site B to highlight it and draw emphasis. Use color sparingly; it
     should be used to convey a message.
 
-  - **GRIDLINES** - Gridlines often get lumped into the chart junk
-    category, i.e. they detract from the purpose of the graph. Gridline
-    can help where strategically added, like making it easier to read.
-    Gridlines should be made a light shade of gray and used sparingly.
+  - **GRIDLINES** - Grid lines often get lumped into the chart junk
+    category, i.e. they detract from the purpose of the graph. Grid
+    lines can help where strategically added, like making it easier to
+    read. Grid lines should be made a light shade of gray and used
+    sparingly.
 
   - **TICK MARKS AND AXIS LINES** - Tick marks are a feature often
     included by default, but do not serve a purpose and fall into the
@@ -135,9 +135,9 @@ The first and most important element when we discuss styling is format.
   - **AXIS TITLES AND LABELS** - Axis titles should be short and to the
     point so as to convey the relevant information and not detract from
     the overall visual. It is important to think about your axis labels.
-    They should be mininmal as well. Often however, axis labels can be a
-    bit longer than the alloted space on the axis and visual software
-    automatically reorients them diagonally to fit them. Diagnonal text
+    They should be minimal as well. Often however, axis labels can be a
+    bit longer than the allotted space on the axis and visual software
+    automatically reorients them diagonally to fit them. Diagonal text
     makes it more difficult for the audience to read and should be
     avoided. An easy solution is to flip the orientation of your chart
     so the long text is on the y axis rather than the x axis.
@@ -161,24 +161,24 @@ The first and most important element when we discuss styling is format.
     labeling where possible or should integrate the legend into the
     graph title/subtitle.
 
-  - **ORDERING** - The default ordering for graphs often is alpabetical,
-    which should be avoided. Graphs should be ordered strategically. For
-    instance you may want to order on a particular category or value.
-    This effort helps convey a focus and underlying purpose of the
-    graph.
+  - **ORDERING** - The default ordering for graphs often is
+    alphabetical, which should be avoided. Graphs should be ordered
+    strategically. For instance you may want to order on a particular
+    category or value. This effort helps convey a focus and underlying
+    purpose of the graph.
 
-  - **3D** - Visual graphs should be kep to 2D. There is nothing added
+  - **3D** - Visual graphs should be kept to 2D. There is nothing added
     with the extra dimension and should be completely avoided. They fall
     into squarely into the chart junk category.
 
   - **DUAL AXIS** - Dual axis charts should be avoided since they are
     both difficult to read and interpret for a reader. A major issue
     with these charts is that the intersection points of the two graphs
-    (eg where dots exceed bar height) can be conflated as meanful. These
-    graphs can also be difficult to read when poorly labeled (eg its not
-    clear which axis applies to which chart element). An improvement to
-    this layout is instead to graph the data on seperate plots and align
-    them next to one another.
+    (eg where dots exceed bar height) can be conflated as meaningful.
+    These graphs can also be difficult to read when poorly labeled (eg
+    its not clear which axis applies to which chart element). An
+    improvement to this layout is instead to graph the data on separate
+    plots and align them next to one another.
 
   - **LABELING** - Labeling is an important element to highlight
     importance and should be used sparingly. There are different types
@@ -198,7 +198,7 @@ The first and most important element when we discuss styling is format.
 
   - **ELEMENT SPACING** - When visualizing data, its important to
     consider the use of white space, ie how much space doesn’t have ink
-    on it. It is imporant not to overload your audience with too much
+    on it. It is important not to overload your audience with too much
     information and give the graph room to breathe. However, too much
     white space can be detracting. For instance, default bar spacing
     Excel can leave too much room between bars and the analyst should
