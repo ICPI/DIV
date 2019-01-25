@@ -1,7 +1,8 @@
 ICPI Style Guide
 ================
-Aaron Chafetz
-January 2019
+Updated: January 2019
+
+![Logo](RefImages/logo.png=250x)
 
 ### Overview
 
@@ -203,3 +204,5 @@ The first and most important element when we discuss styling is format.
     white space can be detracting. For instance, default bar spacing
     Excel can leave too much room between bars and the analyst should
     reduce this so the gap width is no more than 50%.
+
+![Logo](RefImages/logo.png)

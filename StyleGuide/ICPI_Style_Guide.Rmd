@@ -1,13 +1,14 @@
 ---
 title:  "ICPI Style Guide"
-author: "Aaron Chafetz"
-date:   "January 2019"
+date:   "Updated: January 2019"
 output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+![Logo](RefImages/logo.png)
 
 ### Overview
 
@@ -88,3 +89,5 @@ The first and most important element when we discuss styling is format.
 - **ELEMENT SIZE** - In addition to color, element and text size (and bolding) can be used for emphasis to draw the reader to the data you want them to see. Adjusting the size compared to the other data elements will emphasize that point or value compared to the others.
 
 - **ELEMENT SPACING** - When visualizing data, its important to consider the use of white space, ie how much space doesn't have ink on it. It is important not to overload your audience with too much information and give the graph room to breathe. However, too much white space can be detracting. For instance, default bar spacing Excel can leave too much room between bars and the analyst should reduce this so the gap width is no more than 50%.
+
+![Logo](RefImages/logo.png)
