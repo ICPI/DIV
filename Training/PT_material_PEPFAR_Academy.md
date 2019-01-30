@@ -109,3 +109,33 @@ Structuring the data you’re using to be long and tidy, will make it much easie
 [examples of messy v tidy data with a pivot table]
 
 [Reference: Hadley Wickham’s Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf)
+
+
+### 5. Accessing and downloading data **(Shazad)**
+Now that you have a sense of the type and quality of data you should be working with before creating pivot tables, let’s walk through the process of attaining your data and importing that data into excel. These steps will be general for any data you may work with in excel, outside of PEPFAR purposes. 
+
+Let’s focus on the dataset that we use very often in ICPI, the MER Structured Dataset, known as the MSD. 
+
+For this tutorial, we will use a training MSD, where we have replaced actual PEPFAR names and data with artificial names and data. However, the structure of this training dataset mimics that of the actual MSD, published twice every quarter. 
+
+Currently there are several locations where one can access the MSD. One location is through Panorama. Once logged into Panorama, clicking on the green download icon at the top right will take you to screen with several file options. Choose the MSD of your choice depending on your analytic needs. 
+
+Another location is through the DATIM Genie app, which allows the option for downloading datasets that are frozen in time or datasets that show live data. Once logged into the Genie app, you can select which type of MSD data you wish to view and download. An advantage of accessing the data through the Genie app is that you can use the filters to trim your dataset before downloading, which you can’t do through the Panorama route. 
+
+Whether you download your dataset through Pano or Genie, you will receive a file that is zipped. You will need to unzip the file before being able to import into excel. 
+
+Once the dataset is unzipped, open up excel, and begin to import the dataset. Go to the Data tab, then to the “From Text” button at the top ticker. Select the file that is the MSD that was downloaded. Click on “next” twice to bring you to step 3 of the Import Wizard. Scroll to the right until you see the “modality” column in the menu. Press and hold the shift key on your keyboard, and click on the modality column with the mouse. This should highlight all columns leading up the modality column in black. At the top left box named Column data format, click on the option that says ‘text’ to convert the data into text. Click finish. Make sure the dataset starts in cell A1.   
+
+
+### 6. How to Create A Pivot Table **(Shazad)**
+Once the dataset has been successfully imported into excel, you can finally create pivot table.
+
+To do so, click on a cell in your dataset. You could also press “crtl + A” on the keyboard to select all cells of the dataset. 
+
+Then, assuming your dataset is continuous and does not have any gaps in rows, go to the ‘Insert’ tab and then click on the ‘PivotTable’ button at the top left. 
+
+Excel should automatically pick up the full range of the entire dataset in the Create PivotTable menu. 
+
+You also have the options of specifying a cell range for the dataset and choosing where you want the pivot table to be placed. If you are building a tool, you may want to specify where to place the table, otherwise, Excel will create a new sheet for it. 
+
+Once all options are agreed upon, click ‘OK’ and an empty pivot table shell will appear where specified. 
