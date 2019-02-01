@@ -176,8 +176,12 @@ Under Report Layout, you can also display item labels to repeat on rows that are
 
 ### 11. What are calculated indicators and how to create them **(Imran)**
 INTERIOR. OFFICE
-The BOSS pokes her/his into the office. "How are we doing on testing?" Abruptly leaves.
-The analysts gets thinking. "I guess she/he wants to see percent achivement on targets... I can throw in some yield!"
+The BOSS pokes her/his into the office. 
+>How are we doing on testing? 
+Abruptly leaves.
+
+The analysts thinking aloud. 
+>I guess she/he wants to see percent achivement on targets... I can throw in some yield!
 
 Voiceover: We don't have those ratios in the standardized datasets we are using. Additionally, since they are ratios, we cannot create them in the back-end of the raw data table. We would need to use the following:
 `Calculated Field` and `Calculated Item`.
@@ -186,6 +190,8 @@ To get percent target achievement, we will use FY2018APR (as numerator) and FY20
 
 Now for the hard part: Creating a calculated item, which uses categories within the same column in the raw data. In our case, we're calculating `yield`, which is the ratio of HTS_TST_POS/HTS_TST, both of which are in the same `Indicator` column. We're going to do it for `Total Numerator` values by filtering for it in the `StandardizedDisaggregate` column to keep it simple. Follow the same steps as above, but choose the `Calculated Item` option in the dropdown. A note of caution: Keep in mind that you should be in the pivot table in the row labels area, otherwise the `Calculated Item` option will be greyed-out. In the dialogue box for calculated item, write a name for your calculated indicator. For example `Yield`, and then enter the formula for yield choosing the appropriate indicators from the `items` list. `HTS_TST_POS/HTS_TST`. Woot, woot! You should see `Yield` in the pivot table as a ratio. Note of caution: `Calculated Item` can be more processing heavy than `Calculated Field`, and I wouldn't recommend using it for very large datasets. 
 
+The BOSS pokes her/his head in again. "So... He's cut off by the ANALYST: "I'm done!". 
+BOSS: Wow, that was really quick!
 ### 12. Building pivot charts **(Shazad)**
 
 Often times, you will want to visualize the data being displayed in your pivot table. These can easily be done using the PivotCharts feature. 
