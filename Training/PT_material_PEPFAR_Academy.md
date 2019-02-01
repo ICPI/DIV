@@ -59,13 +59,12 @@
 ###  1. Your mission should you choose to accept it **(Imran)**
 
 INTERIOR. LOCKED DOWN COMPUTER ROOM
+
 A regular looking analyst is working on a computer in a secure computer room. 
         ANALYST
-        Argh... I hate Excel pivots
+        "Argh... I hate Excel pivot"
 
-The analyst rushes out anguished.
-There is no one left in the room. There is no sound except the sound of the gentle hum of the computer.  
-A person dressed in black stealthily descends down from the ceiling suspended by a rope onto the desk with the computer. The person in black starts working on the computer, while suspended horizontally. 
+The analyst rushes out anguished.There is no one left in the room. There is no sound except the sound of the gentle hum of the computer.  A person dressed in black stealthily descends down from the ceiling suspended by a rope onto the desk with the computer. The person in black starts working on the computer, while suspended horizontally. 
 
 CLOSE ON COMPUTER SCREEN
 "Your mission, should you choose to accept it, is to successfully create a pivot table in Excel using the MER Structured Datasets. As always, should you or any member of your team get the numbers wrong, the Ambassador will disavow any knowledge of your actions."
