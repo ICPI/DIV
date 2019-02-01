@@ -1,7 +1,7 @@
 ### Intro to Data Manipulation
 #### Section 1: How to look at MER data in Excel
 
-1.  Your mission, should you choose to accept **(Imran)**
+1.  [Your mission, should you choose to accept **(Imran)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#1-Your-mission-should-you-choose-to-accept-it-imran)
     - aka background story, but fun!
     - sample 'real-life' question to solve
     - quick note on excel version
