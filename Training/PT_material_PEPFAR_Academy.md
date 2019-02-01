@@ -143,6 +143,8 @@ Whether you download your dataset through Pano or Genie, you will receive a file
 
 Once the dataset is unzipped, open up excel, and begin to import the dataset. Go to the Data tab, then to the “From Text” button at the top ticker. Select the file that is the MSD that was downloaded. Click on “next” twice to bring you to step 3 of the Import Wizard. Scroll to the right until you see the “modality” column in the menu. Press and hold the shift key on your keyboard, and click on the modality column with the mouse. This should highlight all columns leading up the modality column in black. At the top left box named Column data format, click on the option that says ‘text’ to convert the data into text. Click finish. Make sure the dataset starts in cell A1.   
 
+:question: Do we know when the shift will happen to access the MSDs through Genie rather than Panorama? 
+** Also - please include in your script/video that forthe purpose of this course, learners should access the training dataset through the Handouts section of the PEPFAR Virtual Academy. 
 
 ### 6. How to Create A Pivot Table **(Shazad)**
 Once the dataset has been successfully imported into excel, you can finally create pivot table.
@@ -156,6 +158,22 @@ Excel should automatically pick up the full range of the entire dataset in the C
 You also have the options of specifying a cell range for the dataset and choosing where you want the pivot table to be placed. If you are building a tool, you may want to specify where to place the table, otherwise, Excel will create a new sheet for it. 
 
 Once all options are agreed upon, click ‘OK’ and an empty pivot table shell will appear where specified. 
+
+### 7. Different parts of a Pivot Table **(Katya)**
+Once you've created your pivot table, you'll see two new items appear in the top menu "Analyze" and "Design". These are additional  options and settings that become available with pivot tables. You will also see a menu called "PivotTable Fields" appear. THis coincide with the column names in the raw dataset. 
+
+Within the PivotTable Fields menu, there are sections that are important to understand how they function. 
+- Filters: By dragging fields from the menu to filters, you can select for specific items of interest to be only displayed in the pivot table. For example, if you only want to see data for a particular country or indicator you can drag that Field to Filters.
+- Columns:  You may wish to use columns to break down your data into multiple categories. For example, if you have two years of data under a Fiscal Year field, you may want to display data from both years side by side. 
+- Rows: These are helpful also for breaking down data into categories or disaggregates. For example, if you are looking at data from more than country, you may want to drag the country field to rows or if you are looking at data within one country and want to see what the distribution of data is across regions or at a more granular geographic level, you could drag a geographic level to Rows too. 
+- Values: These are the actual results, dollar amounts, measures, quantitative pieces of data that you want to see. These coul be results or targets, number of individuals reached, etc. 
+
+As a reminder, there are many ways to use and repurpose the four sections (Filters, Columns, Rows, Values) in Pivot Tables, but this is just an example of one could use it with the training data set. You will find your own way to display data efficiently and logically within a Pivot Table with practice. 
+
+### 8. Structural Options **(Katya)**
+When creating a Pivot Table in Excel, the default setting for the Report Layout is in Compact form. You can change the layout of your pivot table as you wish. To change the layout of your Pivot Table, click on Design in the top menu, then click Report Layout. There you will see three options for a report layout: Compact, Outline, and Tabular. Click each one of them and see how your pivot table changes. 
+
+Under Report Layout, you can also display item labels to repeat on rows that are blank but aligned with that row field. Two other menu items of interest are the Subtotals and Grand Totals, which can be turned on and off for your Pivot Table.
 
 
 ### 12. Building pivot charts **(Shazad)**
