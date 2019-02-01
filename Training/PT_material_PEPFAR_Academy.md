@@ -23,13 +23,13 @@
       - Each variable must have its own column.
       - Each observation must have its own row.
       - Each value must have its own cell.
-1. Accessing and downloading data **(Shazad)**
+1. [Accessing and downloading data **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#5-accessing-and-downloading-data-shazad)
     - MSD (will use training dataset)- see release notes in Pano
     - Accessing through Panorama
     - Accessing throough DATIM Genie extracts
     - Unzipping downloaded dataset and renaming, if needed (for scripts)
     - Import text file steps
-1. How to create a pivot table  **(Shazad)**
+1. [How to create a pivot table  **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#6-how-to-create-a-pivot-table-shazad)
     - 'Insert pivot table' button
     - Ensure correct range is picked up
     - Mention conversion to excel table will be discussed in different vid
@@ -44,11 +44,11 @@
 1. What are calculated indicators and how to create them **(Imran)**
     - percent achievement
     - yield
-1. Building pivot charts **(Shazad)**
+1. [Building pivot charts **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#12-building-pivot-charts-shazad)
     - Benefits of pivot chart
     - Pivot chart button
     - Hiding all fields
-1. Components to consider when building an Excel tool **(Shazad)**
+1. [Considerations when building an Excel tool **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#13-considerations-when-building-an-excel-tool-shazad)
     - converting raw data to 'excel table' first
     - naming the pivot tables
     - tab structure of Excel tool
