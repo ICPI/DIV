@@ -156,3 +156,36 @@ Excel should automatically pick up the full range of the entire dataset in the C
 You also have the options of specifying a cell range for the dataset and choosing where you want the pivot table to be placed. If you are building a tool, you may want to specify where to place the table, otherwise, Excel will create a new sheet for it. 
 
 Once all options are agreed upon, click ‘OK’ and an empty pivot table shell will appear where specified. 
+
+
+### 12. Building pivot charts **(Shazad)**
+
+Often times, you will want to visualize the data being displayed in your pivot table. These can easily be done using the PivotCharts feature. 
+
+This feature will automatically suggest which chart types are possible given the pivot table structure. Furthermore, once a chart is built, any changes to the pivot table will automatically update the visual. 
+
+Once the pivot table configuration is complete, you can go to the analyze tab(you have to already be in the pivot table for this to appear) and then click on the PivotChart button at the top left. 
+
+This will bring up the menu with all of the chart options. Once a chart is chosen, the visual will appear. 
+
+By default, the fields chosen from the pivot table will appear as buttons on the chart. You should remove them. To do so, right-click on a button and select “hide all field buttons”. 
+
+If right-clicking does not prompt this menu, then go to the analyze tab (may need to click on chat first) and then click on field buttons at the top right. Select the option to ‘hide all’.   
+
+
+### 13. Considerations when building an Excel tool **(Shazad)**
+
+There are additional steps to consider with your pivot table if you are building a tool or dashboard, especially if the pivot table will be refreshed with new data in the future. 
+
+Converting into an Excel Table
+The first tip is to convert the raw data into an excel table. This step should precede the creation of any pivot tables, because you will want all of your pivot tables to talk to the excel table you are converting the raw data into. To convert to an excel table, select any cell in your raw data range, go to the insert tab and then click on the table button at the top left. After the conversion, you should see formatting on the raw data.  
+
+Naming the Pivot Tables
+If the tool will contain several sheets with multiple pivot tables, a good idea is name your pivot tables with unique names so management of the tables becomes easier. To do this, right-click on a pivot table, select Pivot table Options, and enter a name. This is helpful in keeping track of tables and in managing slicer connections. 
+
+Tab/Sheet Structure
+If building a tool with multiple sheets with multiple pivot tables, consider where pivot tables are placed in relation to the charts & graphs. It may be a good idea to store pivot tables on a hidden sheet while the graphs that are populated by the tables are visible on a separate sheet. You may want to store the pivot table on the same sheet as the graph as well. It depends on the needs and desired aesthetics for the tool.  
+
+Refreshing the Data
+If the tool you are creating will require routine or multiple updates, it is first important to first convert the raw data into an excel table. Then, when creating pivot tables, it is important to ensure they are all connected to the same raw data.  Then, whenever new data is imported into the raw data(which should be an excel table), you can hit ‘refresh all’ to refresh all pivot tables in one click. The ‘refresh all’ button is in the analyze tab once a pivot table is clicked on. 
+
