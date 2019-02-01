@@ -61,7 +61,7 @@
 INTERIOR. LOCKED DOWN COMPUTER ROOM
 
 A regular looking analyst is working on a computer in a secure computer room. 
-        ANALYST
+        <p style="text-align:center"> ANALYST <p>
         "Argh... I hate Excel pivot"
 
 The analyst rushes out anguished.There is no one left in the room. There is no sound except the sound of the gentle hum of the computer.  A person dressed in black stealthily descends down from the ceiling suspended by a rope onto the desk with the computer. The person in black starts working on the computer, while suspended horizontally. 
