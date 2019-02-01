@@ -174,6 +174,17 @@ When creating a Pivot Table in Excel, the default setting for the Report Layout 
 
 Under Report Layout, you can also display item labels to repeat on rows that are blank but aligned with that row field. Two other menu items of interest are the Subtotals and Grand Totals, which can be turned on and off for your Pivot Table.
 
+### 11. What are calculated indicators and how to create them **(Imran)**
+INTERIOR. OFFICE
+The BOSS pokes her/his into the office. "How are we doing on testing?" Abruptly leaves.
+The analysts gets thinking. "I guess she/he wants to see percent achivement on targets... I can throw in some yield!"
+
+Voiceover: We don't have those ratios in the standardized datasets we are using. Additionally, since they are ratios, we cannot create them in the back-end of the raw data table. We would need to use the following:
+`Calculated Field` and `Calculated Item`.
+
+To get percent target achievement, we will use FY2018APR (as numerator) and FY2018_TARGETS (as denominator). They are separate columns in the raw dataset, so we can use the `calcluated field` option. Please follow the these steps to create a calculated field. On the Analyze tab, in the Calculations group, click Fields, Items & Sets. Then choose `Calculated Field`. In the dialogue box, enter a name for target achievement `Perf_achv` for example. Then use the forumla box to enter the formula for target achievement. `FY2018APR/FY2018_TARGETS`. Click okay. Viola! You've just created your calculated field. This option is less processing intensive, and the most commonly used way to get calculated indicators, especially ratios. 
+
+Now for the hard part: Creating a calculated item, which uses categories within the same column in the raw data. In our case, we're calculating `yield`, which is the ratio of HTS_TST_POS/HTS_TST, both of which are in the same `Indicator` column. We're going to do it for `Total Numerator` values by filtering for it in the `StandardizedDisaggregate` column to keep it simple. Follow the same steps as above, but choose the `Calculated Item` option in the dropdown. A note of caution: Keep in mind that you should be in the pivot table in the row labels area, otherwise the `Calculated Item` option will be greyed-out. In the dialogue box for calculated item, write a name for your calculated indicator. For example `Yield`, and then enter the formula for yield choosing the appropriate indicators from the `items` list. `HTS_TST_POS/HTS_TST`. Woot, woot! You should see `Yield` in the pivot table as a ratio. Note of caution: `Calculated Item` can be more processing heavy than `Calculated Field`, and I wouldn't recommend using it for very large datasets. 
 
 ### 12. Building pivot charts **(Shazad)**
 
