@@ -33,7 +33,7 @@
     - 'Insert pivot table' button
     - Ensure correct range is picked up
     - Mention conversion to excel table will be discussed in different vid
-1. [Different parts of a pivot table  **(Katya)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#2-different-parts-of-a-pivot-table-katya)
+1. [Different parts of a pivot table  **(Katya)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#7-different-parts-of-a-pivot-table-katya)
 1. Structural options **(Katya)**
     - different views - tabular, outline
 1. Filtering **(Shaylee)**
