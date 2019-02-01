@@ -1,4 +1,4 @@
-### Intro to Data Manipulation
+### PEPFAR BETWEEN THE SHEETS
 #### Section 1: How to look at MER data in Excel
 
 1.  [Your mission, should you choose to accept **(Imran)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#1-Your-mission-should-you-choose-to-accept-it-imran)
