@@ -177,15 +177,15 @@ If right-clicking does not prompt this menu, then go to the analyze tab (may nee
 
 There are additional steps to consider with your pivot table if you are building a tool or dashboard, especially if the pivot table will be refreshed with new data in the future. 
 
-### Converting into an Excel Table ###
+## Converting into an Excel Table ##
 The first tip is to convert the raw data into an excel table. This step should precede the creation of any pivot tables, because you will want all of your pivot tables to talk to the excel table you are converting the raw data into. To convert to an excel table, select any cell in your raw data range, go to the insert tab and then click on the table button at the top left. After the conversion, you should see formatting on the raw data.  
 
-### Naming the Pivot Tables ###
+## Naming the Pivot Tables ##
 If the tool will contain several sheets with multiple pivot tables, a good idea is name your pivot tables with unique names so management of the tables becomes easier. To do this, right-click on a pivot table, select Pivot table Options, and enter a name. This is helpful in keeping track of tables and in managing slicer connections. 
 
-### Tab/Sheet Structure ###
+## Tab/Sheet Structure ##
 If building a tool with multiple sheets with multiple pivot tables, consider where pivot tables are placed in relation to the charts & graphs. It may be a good idea to store pivot tables on a hidden sheet while the graphs that are populated by the tables are visible on a separate sheet. You may want to store the pivot table on the same sheet as the graph as well. It depends on the needs and desired aesthetics for the tool.  
 
-### Refreshing the Data ###
+## Refreshing the Data ##
 If the tool you are creating will require routine or multiple updates, it is first important to first convert the raw data into an excel table. Then, when creating pivot tables, it is important to ensure they are all connected to the same raw data.  Then, whenever new data is imported into the raw data(which should be an excel table), you can hit ‘refresh all’ to refresh all pivot tables in one click. The ‘refresh all’ button is in the analyze tab once a pivot table is clicked on. 
 
