@@ -41,7 +41,7 @@
 1. Including Slicers **(Shaylee)**
     - SLICER button
     - reporting connections
-1. What are calculated indicators and how to create them **(Imran)**
+1. [What are calculated indicators and how to create them **(Imran)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#11-what-are-calculated-indicators-and-how-to-create-them-imran)
     - percent achievement
     - yield
 1. [Building pivot charts **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#12-building-pivot-charts-shazad)
