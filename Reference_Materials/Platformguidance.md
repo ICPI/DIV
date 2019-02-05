@@ -20,6 +20,9 @@ Slack is a team communication platform where teams can create channels to discus
 ## GitHub
 GitHub is a collaborative software development tool	and available for creating projects and storing code. Please review the [GitHub workshop materials](https://github.com/ICPI/DIV/tree/master/Presentations/GitHub%20Workshops) and [vlog](https://pepfar.adobeconnect.com/pdoe0ona1a8k/) to familiarize yourself with GitHub for ICPI. 
 
+## YoutTube
+Youtubte is a video hosting platform. It is a federally compatible video platform used by many  agencies to host a variety of video content. Youtube is to advance communicaiton and learning objectives within the ICPI. As a public platform, ICPI uses the  governance principles of what is appropriate to share in this space. Additional considerations include accessibility of the videos and ensuring [508 compliance](https://digital.gov/2014/06/30/508-accessible-videos-why-and-how-to-make-them/).
+
 ## Agency-specific
 Please follow the instructions of your agency for use of email and messaging platforms. 
 
