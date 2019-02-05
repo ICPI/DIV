@@ -191,15 +191,18 @@ Another way to filter your pivot table is through slicers. Slicers are another q
 2)	Select “Insert Slicer” and a small window will open that displays your data fields. 
 3)	Select the field(s) you’d like to filter your table by, and click “OK”.
 4)	Your slicer box will then appear and will be linked to that specific pivot table.
+
 The default for a slicer will only allow you to select one item per field at a time. To filter by more than one item within a field:
 1)	In the slicer box, select one item in the slicer you want to filter the table by.
 2)	Go to the to right corner of the slicer box and click on the icon with multiple check marks. This will allow you to select additional items to filter.
+
 To clear your slicer filters, simply click on the “FilterX” icon in the top right corner of your slicer.
 You can also link your slicers to more than one pivot table and/or pivot chart at a time – if you want to filter these displays by similar fields and items. To do this:
 1)	Right-click on the slicer you want to link to additional pivot tables/pivot charts.
 2)	Select “Report Connections”. This will show you all the Pivot tables and pivot charts you can link the slicer to within your workbook.
 3)	Check the intended tables/charts you want to link and click “OK”. This will now link the filters you select in that specific slicer to whichever tables/charts you selected.
-As a general reminder, no matter which method of filtering you choose, always be aware of what data is being displayed in your pivot table, as well as what filters are being applied.
+
+*As a general reminder, no matter which method of filtering you choose, always be aware of what data is being displayed in your pivot table, as well as what filters are being applied.*
 
 ### 11. What are calculated indicators and how to create them **(Imran)**
 INTERIOR. OFFICE
