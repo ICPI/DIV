@@ -38,7 +38,7 @@
     - different views - tabular, outline
 1. [Filtering **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#9-filtering-shaylee)
     - adding fields to "FILTER" box
-1. Including Slicers **(Shaylee)**
+1. [Including Slicers **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#10-adding-slicers-shaylee)
     - SLICER button
     - reporting connections
 1. [What are calculated indicators and how to create them **(Imran)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#11-what-are-calculated-indicators-and-how-to-create-them-imran)
