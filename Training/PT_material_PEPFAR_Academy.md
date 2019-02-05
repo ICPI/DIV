@@ -90,6 +90,10 @@ An additional benefit of pivot tables is their structure. If we get new data for
 
 In sum, pivot tables allow us to take raw data, aggregate it up, and summarize it across different groupings or filters.
 
+### 3. Why and when to use a pivot table? **(Catherine)**
+
+
+
 ### 4. Data structure (tidy data) **(Aaron)**
 
 Structure is important across any data used, but particularly important when using pivot tables. It create consistency, which makes it easy to use, understand, and explore the variables and their relationships.
