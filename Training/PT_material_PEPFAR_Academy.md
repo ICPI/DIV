@@ -185,7 +185,7 @@ As mentioned previously, you can filter your pivot table by dragging your fields
 2)	Click on the drop-down for the field you want to filter by, and select the item you want to be displayed in your pivot table. 
 a.	To select more than one item in a certain field, check the “Select Multiple Items” box, and then continue to select the items you want your pivot table to showcase with that field.
 
-### 10. Adding slicers **(Shaylee)**
+### 10. [Adding slicers **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#10-adding-slicers-shaylee)
 Another way to filter your pivot table is through slicers. Slicers are another quick way to filter your data, and remain visible with your table so you’re always aware of which fields and items are presented in the pivot table. To add slicers:
 1)	Click anywhere in your pivot table and select “Design” under “Table Tools” by the menu bar.
 2)	Select “Insert Slicer” and a small window will open that displays your data fields. 
