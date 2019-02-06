@@ -200,7 +200,7 @@ By default, the fields chosen from the pivot table will appear as buttons on the
 
 If right-clicking does not prompt this menu, then go to the analyze tab (may need to click on chat first) and then click on field buttons at the top right. Select the option to ‘hide all’.   
 
-### 11. [Adding slicers **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#10-adding-slicers-shaylee)
+### 11. Adding slicers **(Shaylee)**
 Another way to filter your pivot table is through slicers. Slicers are another quick way to filter your data, and remain visible with your table so you’re always aware of which fields and items are presented in the pivot table. To add slicers:
 1)	Click anywhere in your pivot table and select “Design” under “Table Tools” by the menu bar.
 2)	Select “Insert Slicer” and a small window will open that displays your data fields. 
