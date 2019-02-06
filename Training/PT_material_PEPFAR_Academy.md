@@ -38,16 +38,17 @@
     - different views - tabular, outline
 1. [Filtering **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#9-filtering-shaylee)
     - adding fields to "FILTER" box
+1. [Building pivot charts **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#12-building-pivot-charts-shazad)
+    - Benefits of pivot chart
+    - Pivot chart button
+    - Hiding all fields
 1. [Including Slicers **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#10-adding-slicers-shaylee)
     - SLICER button
     - reporting connections
 1. [What are calculated indicators and how to create them **(Imran)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#11-what-are-calculated-indicators-and-how-to-create-them-imran)
     - percent achievement
     - yield
-1. [Building pivot charts **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#12-building-pivot-charts-shazad)
-    - Benefits of pivot chart
-    - Pivot chart button
-    - Hiding all fields
+
 1. [Considerations when building an Excel tool **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#13-considerations-when-building-an-excel-tool-shazad)
     - converting raw data to 'excel table' first
     - naming the pivot tables
@@ -185,7 +186,21 @@ As mentioned previously, you can filter your pivot table by dragging your fields
 2)	Click on the drop-down for the field you want to filter by, and select the item you want to be displayed in your pivot table. 
 a.	To select more than one item in a certain field, check the “Select Multiple Items” box, and then continue to select the items you want your pivot table to showcase with that field.
 
-### 10. [Adding slicers **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#10-adding-slicers-shaylee)
+### 10. Building pivot charts **(Shazad)**
+
+Often times, you will want to visualize the data being displayed in your pivot table. These can easily be done using the PivotCharts feature. 
+
+This feature will automatically suggest which chart types are possible given the pivot table structure. Furthermore, once a chart is built, any changes to the pivot table will automatically update the visual. 
+
+Once the pivot table configuration is complete, you can go to the analyze tab(you have to already be in the pivot table for this to appear) and then click on the PivotChart button at the top left. 
+
+This will bring up the menu with all of the chart options. Once a chart is chosen, the visual will appear. 
+
+By default, the fields chosen from the pivot table will appear as buttons on the chart. You should remove them. To do so, right-click on a button and select “hide all field buttons”. 
+
+If right-clicking does not prompt this menu, then go to the analyze tab (may need to click on chat first) and then click on field buttons at the top right. Select the option to ‘hide all’.   
+
+### 11. [Adding slicers **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#10-adding-slicers-shaylee)
 Another way to filter your pivot table is through slicers. Slicers are another quick way to filter your data, and remain visible with your table so you’re always aware of which fields and items are presented in the pivot table. To add slicers:
 1)	Click anywhere in your pivot table and select “Design” under “Table Tools” by the menu bar.
 2)	Select “Insert Slicer” and a small window will open that displays your data fields. 
@@ -204,7 +219,7 @@ You can also link your slicers to more than one pivot table and/or pivot chart a
 
 *As a general reminder, no matter which method of filtering you choose, always be aware of what data is being displayed in your pivot table, as well as what filters are being applied.*
 
-### 11. What are calculated indicators and how to create them **(Imran)**
+### 12. What are calculated indicators and how to create them **(Imran)**
 INTERIOR. OFFICE
 
 The BOSS pokes her/his into the office. 
@@ -234,19 +249,7 @@ BOSS:
 
 FADE TO BLACK
 
-### 12. Building pivot charts **(Shazad)**
 
-Often times, you will want to visualize the data being displayed in your pivot table. These can easily be done using the PivotCharts feature. 
-
-This feature will automatically suggest which chart types are possible given the pivot table structure. Furthermore, once a chart is built, any changes to the pivot table will automatically update the visual. 
-
-Once the pivot table configuration is complete, you can go to the analyze tab(you have to already be in the pivot table for this to appear) and then click on the PivotChart button at the top left. 
-
-This will bring up the menu with all of the chart options. Once a chart is chosen, the visual will appear. 
-
-By default, the fields chosen from the pivot table will appear as buttons on the chart. You should remove them. To do so, right-click on a button and select “hide all field buttons”. 
-
-If right-clicking does not prompt this menu, then go to the analyze tab (may need to click on chat first) and then click on field buttons at the top right. Select the option to ‘hide all’.   
 
 
 ### 13. Considerations when building an Excel tool **(Shazad)**
