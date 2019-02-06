@@ -9,7 +9,7 @@ The Preferences.tps file is located in your My Tableau Repository. The file is a
 
 ### 2. To edit your preferences file
 
-Go to the **My Tableau Repository** folder in your Documents directory, and open the **Preferences.tps** file.
+Go to the **My Tableau Repository** folder in your Documents directory, and open the **Preferences.tps** file with any Text Editor like Notepad, Notepad ++, Sublime, etc. 
 
 ### 3. Copy and paste the following code in the **Preferences.tps** file.
 
