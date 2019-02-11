@@ -138,7 +138,7 @@ Now that you have a sense of the type and quality of data you should be working 
 
 When deciding on which dataset to download, keep in mind there are at this time, several datasets to choose from including SIMS, ER and multiple versions of MSD datasets. As of this recording, there are also multiple locations to download datasets from, including Panorama and Genie app in DATIM.  
 
-For this tutorial, we will use a training MSD, where we have replaced actual PEPFAR names and data with artificial names and data. However, the structure of this training dataset mimics that of the actual MSD, published twice every quarter. And for the purpose of this course, you should access the training dataset through the Handouts section of the PEPFAR Virtual Academy.
+For this course, we will use a training MSD, where we have replaced actual PEPFAR names and data with artificial names and data. However, the structure of this training dataset mimics that of the actual MSD, published twice every quarter. And for the purpose of this course, you should access the training dataset through the Handouts section of the PEPFAR Virtual Academy. However, in the video we will simulate downloading a real non training dataset.  
 
 The first location we will cover for downloading data is Panorama. Once logged into Panorama, clicking on the green download icon at the top right will take you to screen with several file options. Choose the dataset of your choice depending on your analytic needs. 
 
