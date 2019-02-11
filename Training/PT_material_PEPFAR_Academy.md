@@ -132,18 +132,19 @@ Structuring the data you’re using to be long and tidy, will make it much easie
 [Reference: Hadley Wickham’s Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf)
 
 
-### 5. Accessing and downloading data **(Shazad)**
+### 5. Accessing and downloading data **(Shazad)**  
+
 Now that you have a sense of the type and quality of data you should be working with before creating pivot tables, let’s walk through the process of attaining your data and importing that data into excel. These steps will be general for any data you may work with in excel, outside of PEPFAR purposes. 
 
-Let’s focus on the dataset that we use very often in ICPI, the MER Structured Dataset, known as the MSD. 
+When deciding on which dataset to download, keep in mind there are at this time, several datasets to choose from including SIMS, ER and multiple versions of MSD datasets. As of this recording, there are also multiple locations to download datasets from, including Panorama and Genie app in DATIM.  
 
-For this tutorial, we will use a training MSD, where we have replaced actual PEPFAR names and data with artificial names and data. However, the structure of this training dataset mimics that of the actual MSD, published twice every quarter. 
+For this tutorial, we will use a training MSD, where we have replaced actual PEPFAR names and data with artificial names and data. However, the structure of this training dataset mimics that of the actual MSD, published twice every quarter. And for the purpose of this course, you should access the training dataset through the Handouts section of the PEPFAR Virtual Academy.
 
-Currently there are several locations where one can access the MSD. One location is through Panorama. Once logged into Panorama, clicking on the green download icon at the top right will take you to screen with several file options. Choose the MSD of your choice depending on your analytic needs. 
+The first location we will cover for downloading data is Panorama. Once logged into Panorama, clicking on the green download icon at the top right will take you to screen with several file options. Choose the dataset of your choice depending on your analytic needs. 
 
-Another location is through the DATIM Genie app, which allows the option for downloading datasets that are frozen in time or datasets that show live data. Once logged into the Genie app, you can select which type of MSD data you wish to view and download. An advantage of accessing the data through the Genie app is that you can use the filters to trim your dataset before downloading, which you can’t do through the Panorama route. 
+Another location is through the DATIM Genie app, which allows the option for downloading datasets that are frozen in time or datasets that show live data. Once logged into the Genie app, you can select which type of data you wish to view and download. An advantage of accessing the data through the Genie app is that you can use the filters to trim your dataset before downloading, which you can’t do through the Panorama route. 
 
-Whether you download your dataset through Pano or Genie, you will receive a file that is zipped. You will need to unzip the file before being able to import into excel. 
+Whether you download your dataset through Pano or Genie, you will receive a file that is zipped. You will need to unzip the file before being able to import into excel. 2
 
 Once the dataset is unzipped, open up excel, and begin to import the dataset. Go to the Data tab, then to the “From Text” button at the top ticker. Select the file that is the MSD that was downloaded. Click on “next” twice to bring you to step 3 of the Import Wizard. Scroll to the right until you see the “modality” column in the menu. Press and hold the shift key on your keyboard, and click on the modality column with the mouse. This should highlight all columns leading up the modality column in black. At the top left box named Column data format, click on the option that says ‘text’ to convert the data into text. Click finish. Make sure the dataset starts in cell A1.   
 
