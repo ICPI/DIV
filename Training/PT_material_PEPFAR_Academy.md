@@ -144,7 +144,7 @@ The first location we will cover for downloading data is Panorama. Once logged i
 
 Another location is through the DATIM Genie app, which allows the option for downloading datasets that are frozen in time or datasets that show live data. Once logged into the Genie app, you can select which type of data you wish to view and download. An advantage of accessing the data through the Genie app is that you can use the filters to trim your dataset before downloading, which you can’t do through the Panorama route. 
 
-Whether you download your dataset through Pano or Genie, you will receive a file that is zipped. You will need to unzip the file before being able to import into excel. 2
+Whether you download your dataset through Pano or Genie, you will receive a file that is zipped. You will need to unzip the file before being able to import into excel.
 
 Once the dataset is unzipped, open up excel, and begin to import the dataset. Go to the Data tab, then to the “From Text” button at the top ticker. Select the file that is the MSD that was downloaded. Click on “next” twice to bring you to step 3 of the Import Wizard. Scroll to the right until you see the “modality” column in the menu. Press and hold the shift key on your keyboard, and click on the modality column with the mouse. This should highlight all columns leading up the modality column in black. At the top left box named Column data format, click on the option that says ‘text’ to convert the data into text. Click finish. Make sure the dataset starts in cell A1.   
 
