@@ -269,3 +269,5 @@ If building a tool with multiple sheets with multiple pivot tables, consider whe
 #### Refreshing the Data ####
 If the tool you are creating will require routine or multiple updates, it is first important to first convert the raw data into an excel table. Then, when creating pivot tables, it is important to ensure they are all connected to the same raw data.  Then, whenever new data is imported into the raw data(which should be an excel table), you can hit ‘refresh all’ to refresh all pivot tables in one click. The ‘refresh all’ button is in the analyze tab once a pivot table is clicked on. 
 
+### 14. Resources **(ALL)**
+- Data Dictionary for MSD, SIMS, etc. + Katie O.
