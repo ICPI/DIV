@@ -1,11 +1,11 @@
 ### PEPFAR BETWEEN THE SHEETS
 #### Section 1: How to look at MER data in Excel
 
-1.  [Your mission, should you choose to accept **(Imran)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#1-Your-mission-should-you-choose-to-accept-it-imran)
+1.  [Your mission, should you choose to accept **(Imran)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#1-your-mission-should-you-choose-to-accept-it-imran)
     - aka background story, but fun!
     - sample 'real-life' question to solve
     - quick note on excel version
-1.  [What is a pivot table? **(Aaron)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#2-what-is-a-pivot-table-aaron)
+1.  [What is a pivot table? **(Aaron)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#2-what-is-a-pivot-table-aaron)
     - Appearance - could look similar, but purpose is different
     - Raw data compared to summary
     - Purpose/Benefits
@@ -14,42 +14,42 @@
       - dyanmic tables
       - filtering
       - updates with new datasets
-1.  [Why and when to use a pivot table? **(Catherine)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#3-why-and-when-to-use-a-pivot-table-catherine)
+1.  [Why and when to use a pivot table? **(Catherine)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#3-why-and-when-to-use-a-pivot-table-catherine)
     - difference between standard platforms
-1.  [Data structure (tidy data) **(Aaron)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#4-data-structure-tidy-data-aaron)
+1.  [Data structure (tidy data) **(Aaron)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#4-data-structure-tidy-data-aaron)
     - standard/consistent way to organize data in datasets
     - facilitate data exploration
     - principles (Wickham)
       - Each variable must have its own column.
       - Each observation must have its own row.
       - Each value must have its own cell.
-1. [Accessing and downloading data **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#5-accessing-and-downloading-data-shazad)
+1. [Accessing and downloading data **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#5-accessing-and-downloading-data-shazad)
     - MSD (will use training dataset)- see release notes in Pano
     - Accessing through Panorama
     - Accessing throough DATIM Genie extracts
     - Unzipping downloaded dataset and renaming, if needed (for scripts)
     - Import text file steps
-1. [How to create a pivot table  **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#6-how-to-create-a-pivot-table-shazad)
+1. [How to create a pivot table  **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#6-how-to-create-a-pivot-table-shazad)
     - 'Insert pivot table' button
     - Ensure correct range is picked up
     - Mention conversion to excel table will be discussed in different vid
-1. [Different parts of a pivot table  **(Katya)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#7-different-parts-of-a-pivot-table-katya)
-1. [Structural options **(Katya)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#8-structural-options-katya)
+1. [Different parts of a pivot table  **(Katya)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#7-different-parts-of-a-pivot-table-katya)
+1. [Structural options **(Katya)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#8-structural-options-katya)
     - different views - tabular, outline
-1. [Filtering **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#9-filtering-shaylee)
+1. [Filtering **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#9-filtering-shaylee)
     - adding fields to "FILTER" box
-1. [Building pivot charts **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#10-building-pivot-charts-shazad)
+1. [Building pivot charts **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#10-building-pivot-charts-shazad)
     - Benefits of pivot chart
     - Pivot chart button
     - Hiding all fields
-1. [Including Slicers **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#11-adding-slicers-shaylee)
+1. [Including Slicers **(Shaylee)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#11-adding-slicers-shaylee)
     - SLICER button
     - reporting connections
-1. [What are calculated indicators and how to create them **(Imran)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#12-what-are-calculated-indicators-and-how-to-create-them-imran)
+1. [What are calculated indicators and how to create them **(Imran)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#12-what-are-calculated-indicators-and-how-to-create-them-imran)
     - percent achievement
     - yield
 
-1. [Considerations when building an Excel tool **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#13-considerations-when-building-an-excel-tool-shazad)
+1. [Considerations when building an Excel tool **(Shazad)**](https://github.com/ICPI/DIV/blob/master/Training/PVA_PEPFARBetweentheSheets/PT_material_PEPFAR_Academy.md#13-considerations-when-building-an-excel-tool-shazad)
     - converting raw data to 'excel table' first
     - naming the pivot tables
     - tab structure of Excel tool
