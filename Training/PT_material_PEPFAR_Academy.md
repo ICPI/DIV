@@ -14,7 +14,7 @@
       - dyanmic tables
       - filtering
       - updates with new datasets
-1.  Why and when to use a pivot table? **(Catherine)**
+1.  [Why and when to use a pivot table? **(Catherine)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#3-why-and-when-to-use-a-pivot-table-catherine)
     - difference between standard platforms
 1.  [Data structure (tidy data) **(Aaron)**](https://github.com/ICPI/DIV/blob/master/Training/PT_material_PEPFAR_Academy.md#4-data-structure-tidy-data-aaron)
     - standard/consistent way to organize data in datasets
