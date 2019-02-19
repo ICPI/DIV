@@ -92,6 +92,14 @@ An additional benefit of pivot tables is their structure. If we get new data for
 In sum, pivot tables allow us to take raw data, aggregate it up, and summarize it across different groupings or filters.
 
 ### 3. Why and when to use a pivot table? **(Catherine)**
+Now that we’ve reviewed the basics of what pivot tables are, we can consider when we should use them.
+
+You might have used PEPFAR data platforms for viewing MER data such as Panorama or DATIM.  These platforms are very good for viewing MER data in standardized tables and visualizations.  But, for enhanced flexibility and control over the data, one can use the MER structured datasets, which are text files of MER data that can be read into excel or a statistical software package.
+
+If you want the ability to conduct customized analyses with your MER data, then the MER structured datasets will help you in your work.
+A key skill to using the MER structured datasets in excel is creating pivot tables.
+
+Before jumping into pivot tables using the MER structured datasets, we will briefly review some important principles of data structure.
 
 
 
