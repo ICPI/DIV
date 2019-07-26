@@ -1,0 +1,731 @@
+<html>
+
+
+<head>
+
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1">
+
+<!-- Copy-Paste below this line for Dossier html box  -->
+
+<!-- Customizing the color and fonts for the accordions  -->
+
+<style>
+
+/* Main header settings */
+
+h1 {
+font-family:'Lato',Arial;
+color: #00467F
+}
+
+.accordion
+{
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* Change background color of accordion  */
+
+background-color: #efefef;
+
+/* Change text color of accordion  */
+
+color: #444649;
+
+/* Change font size */
+
+font-size: 18px;
+
+/* Change font style */
+
+font-family:'Lato',Arial;
+
+/* Change how fast or slow the accordion closes and opens */
+
+transition: 0.6s;
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* ~~~Other parameters */
+
+cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: 0 0 5px 0;
+  text-align: left;
+  outline: none;
+}
+
+
+
+.active, .accordion:hover {
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* Background color of panel when mousing over */
+
+background-color: #00467F;
+
+/* Text color of panel when mousing over   */
+
+color: white;
+}
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* Making changes to the plus sign in closed panel */
+
+.accordion:after {
+
+/* ~~~ plus symbol */
+
+content: '\002B';
+
+/* ~~~ color of plus symbol */
+
+color: #BE0000;
+
+font-weight: bold;
+
+font-family:'Lato',Arial;
+padding-right: 10px;
+
+/* Aligning the text */
+
+float: left;
+
+/* Creating the left margin */
+
+margin-left: 5px;
+}
+
+
+
+/* Making changes to the minus sign in open panel */
+
+
+.active:after {
+
+/* minus symbol */
+
+content: "\2212";
+  color: #FFFFFF;
+}
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* Settings for the content for open panel */
+
+.panel {
+
+padding: 0 18px;
+
+background-color: white;
+
+max-height: 0;
+
+overflow: hidden;
+
+transition:
+max-height 0.6s ease-out;
+}
+
+
+
+.t1 {
+
+max-height: 400px;
+
+overflow: scroll;
+ }
+
+
+.t2 {
+
+height: 320px;
+
+width: 720px;
+ }
+
+
+
+
+p,ul {
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* Changing the font size for text and lists */
+
+font-size: 16px;
+
+font-family: Arial;
+
+line-height: 1.5;
+}
+
+
+
+p {
+  margin: 0em;
+}
+
+
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* Table settings */
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+thead th:nth-child(1) {
+
+width: 20%;
+
+font-weight: bold;
+
+font-family:'Lato',Arial;
+}
+
+
+
+thead th:nth-child(2) {
+
+width: 80%;
+
+font-weight: bold;
+
+font-family:'Lato',Arial;
+}
+
+
+
+table#dictionary, th, td#dictionary {
+
+text-align: left;
+
+border-collapse: collapse;
+
+border: 1px solid #e0e0e0;
+
+padding: 5px;
+
+font-family:'Lato',Arial;
+}
+
+
+
+table {
+
+text-align: left;
+
+font-family:'Lato',Arial;
+}
+
+
+
+
+</style>
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+
+
+<h1>Clinical Cascade: All OU</h1>
+
+
+
+
+
+
+<!-- ~~~editable top~~~ -->
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<button class="accordion">    
+
+
+
+<!-- ~~~editable_panel_title_start~~~ -->
+Purpose
+<!-- ~~~editable_panel_title_end~~~ -->
+
+
+
+</button>
+
+
+<div class="panel">
+<p>
+
+
+
+<!-- ~~~editable_panel_content_start~~~ -->
+
+cross all Operating Units, including age/sex disaggregations (total, by age, by sex, by age/sex).
+
+<!-- ~~~editable_panel_content_end~~~ -->
+
+
+
+<br>
+</p>
+<p><b>
+
+
+
+<!-- ~~~editable_panel_content_start~~~ -->
+
+Indicators included in this tool:
+
+<!-- ~~~editable_panel_content_end~~~ -->
+
+<!-- ~~~comment: the above text is in bold~~~ -->
+</b>
+
+
+
+<!-- ~~~editable_panel_content_start~~~ -->
+
+HTS_TST, HTS_TST_POS, TX_NEW, TX_CURR, TB_STAT, TB_ART, TB_PREV, PMTCT_STAT, PMTCT_ART, PMTCT_EID, TX_PVLS
+
+<!-- ~~~editable_panel_content_start~~~ -->
+
+</p>
+</div>
+
+
+<button class="accordion">    
+
+<!-- ~~~editable_panel_title_start~~~ -->
+Navigating the Dossier
+<!-- ~~~editable_panel_title_end~~~ -->
+
+
+
+
+
+</button>
+<div class="panel">
+<p>
+<!-- ~~~editable_panel_content_start~~~ -->
+
+The pages of this dossier sometimes use “level selectors.” Level selectors have the same appearance as filters, but a different function. Level selectors can be used to change the “level” of disaggregation presented in the visualization. The principal level selectors are:</p>
+
+<!-- ~~~editable_panel_content_end~~~ -->
+
+
+
+<!-- ~~~editable_list_content_start~~~ -->
+
+<ul>
+
+<li>Sex Disag: permits the user to choose between presenting the data by sex (male, female, unknown sex) or Total (all sexes grouped together)</li>
+
+<li>Age Disag: permits the user to choose between presenting the data by Coarse Age (&lt15, 15+), Fine Age Adults (15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50+) or Fine Age Peds (&lt1, 1-4, 5-9, 10-14)</li>
+
+</ul>
+<!-- ~~~editable_list_content_end~~~ -->
+
+
+
+
+
+
+</div>
+
+<button class="accordion">    
+
+<!-- ~~~editable_panel_title_start~~~ -->
+Table of Contents
+<!-- ~~~editable_panel_title_end~~~ -->
+
+
+
+</button>
+<div class="panel">
+  <div class="t1">
+         <div class="t2">
+
+
+
+<!-- ~~~editable_list_content_start~~~ -->
+
+<ul>
+<li>Overview:  </li>
+
+  <ul>
+
+<li> The 90/90/90 cascade for the last four quarters</li>
+
+<li> Age/sex disaggregation completeness</li>
+
+  </ul>
+
+<li>HTS: Modalities: Presents cross-sectional and trend data on HTS_TST and testing yield by modality</li>
+
+<li>HTS: Index: Presents cross-sectional and trend data on index testing coverage, volume and yield. This chapter presents index testing “proxy” cascades (i.e. they does not use the HTS_INDEX cascade). </li>
+
+  <ul>
+<li>Index testing proxy cascade for adults: </li>
+
+  <ul>
+
+<li>Presumed index cases (HTS_TST_POS: adults age 15+ from modalities other than Index or IndexMod),</li>
+
+<li>Adult contacts tested (HTS_TST: adults tested in the Index or IndexMod modality)</li>
+
+<li>Yield among adult contacts tested (HTS_TST_POS/HTS_TST among adults in the Index or IndexMod modality)</li>
+
+</ul>
+
+<li>Index testing proxy cascade for pediatrics: </li>
+
+<ul>
+
+<li>Presumed index cases (HTS_TST_POS: adult females age 15+ )</li>
+
+<li>Pediatric contacts tested (HTS_TST: pediatrics age &lt15 tested in the Index or IndedMod modality)</li>
+
+<li>Yield among pediatric contacts (HTS_TST_POS/HTS_TST among pediatrics in the Index or IndexMod modality)</li>
+
+</ul>
+
+</ul>
+
+<li>KP (Key Populations): Presents cross-sectional and trend data on HTS_TST_POS, targets vs. results, and testing yield by key populations</li>
+
+<li>HTS_TST_POS: Presents cross-sectional and trend data on:</li>
+
+<ul>
+
+<li>HTS_TST, targets vs. results</li>
+
+<li>The age/sex distribution of HTS_TST_POS</li>
+
+</ul>
+
+<li>Linkage Proxy: Presents cross-sectional and trend data using the Linkage proxy</li>
+
+<li>Treatment: Presents cross-sectional and trend data on:</li>
+
+<ul>
+
+<li>Targets vs. Results for TX_NEW and TX_CURR</li>
+
+<li>The age/sex distribution of TX_NEW and TX_CURR</li>
+
+</ul>
+
+<li>Retention Proxy: Presents cross-sectional and trend data using the Retention proxy and Net gain/loss</li>
+
+<li>VL (Viral Load): Presents cross-sectional and trend data on:</li>
+
+<ul>
+
+<li>TX_PVLS: Targets vs. Results</li>
+
+<li>VL suppression</li>
+
+</ul>
+
+<li>TB (Tuberculosis): Presents cross-sectional and trend data on:</li>
+
+<ul>
+
+<li>The coverage of known HIV status among TB Cases (TB_STAT)</li>
+
+<li>The coverage of ART among HIV+ TB cases (TB_ART)</li>
+
+<li>Targets vs Results for TB_PREV</li>
+
+</ul>
+
+<li>PMTCT: Presents cross-sectional and trend data on:</li>
+
+<ul>
+
+<li>The coverage of known HIV status among pregnant women and ANC1 (PMTCT_STAT)</li>
+
+<li>The coverage of ART among HIV+ pregnant women (PMTCT_ART)</li>
+
+<li>The coverage and timing of EID among HIV-exposed infants (PMTCT_EID)</li>
+
+</ul>
+
+</ul>
+
+<!-- ~~~editable_list_content_end~~~ -->
+
+
+
+</div>
+</div>
+</div>
+
+<button class="accordion">    
+
+
+
+<!-- ~~~editable_panel_title_start~~~ -->
+Data Dictionary
+<!-- ~~~editable_panel_title_end~~~ -->
+
+
+
+</button>
+
+<div class="panel">
+
+
+
+<!-- ~~~editable_table_start~~~ -->
+<table>
+
+<thead>
+
+<th>Indicator</th>
+<th>Description</th>
+
+</thead>
+
+<tbody>
+
+<!-- HTS_TST, HTS_TST_POS, TX_NEW, TX_CURR, TB_STAT, TB_ART, TB_PREV, PMTCT_STAT, PMTCT_ART, PMTCT_EID, TX_PVLS -->
+
+<tr><td id="dictionary">Linkage proxy</td><td id="dictionary">TX_NEW/HTS_TST_POS</td></tr>
+<tr><td id="dictionary">OGAC Ret proxy</td><td id="dictionary">TX_NEW/TX_NET_NEW</td></tr>
+
+<tr><td id="dictionary">Net gain/loss</td><td id="dictionary">TX_NET_NEW - TX_NEW. A negative result represents net patients lost. A positive result represents net patients gained.</td></tr>
+
+<tr><td id="dictionary">Retention proxy</td><td id="dictionary">1 + (TX_NET_NEW – TX_NEW)/(TX_CURR – TX_NET_NEW + TX_NEW)</td></tr>
+
+<tr><td id="dictionary">Quarterly retention proxy</td><td id="dictionary">1 + (TX_NET_NEW*4 – TX_NEW*4)/(TX_CURR – TX_NET_NEW + TX_NEW*4)</td></tr>
+
+<tr><td id="dictionary">VL Suppression</td><td id="dictionary">TX_PVLS N/TX_PVLS D</td></tr>
+
+<tr><td id="dictionary">VL monitoring coverage proxy</td><td id="dictionary">TX_PVLS D / TX_CURR two quarters previous</td></tr>
+
+<tr><td id="dictionary">PMTCT_STAT coverage</td><td id="dictionary">PMTCT_STAT N (Total Numerator)/PMTCT_STAT D (Total Denominator)</td></tr>
+
+<tr><td id="dictionary">PMTCT_ART coverage</td><td id="dictionary">PMTCT_ART N (Total Numerator) /PMTCT_STAT POS (Total Numerator)</td></tr>
+
+<tr><td id="dictionary">PMTCT_ART</td><td id="dictionary">dolor sit amet, consectetur adipisicing elit,</td></tr>
+
+<tr><td id="dictionary">TB_STAT coverage</td><td id="dictionary">TB_STAT N (Total Numerator) /TB_STAT D (Total Denominator)</td></tr>
+
+<tr><td id="dictionary">TB_ART coverage</td><td id="dictionary">TB_ART N (Total Numerator) /TB_STAT POS (Total Numerator)</td></tr>
+
+</tbody>
+
+</table>
+<!-- ~~~editable_table_end~~~ -->
+
+
+
+</div>
+
+<button class="accordion">    
+
+
+
+<!-- ~~~editable_panel_title_start~~~ -->
+Data Caveats
+<!-- ~~~editable_panel_title_end~~~ -->
+
+
+
+</button>
+
+<div class="panel">
+
+<div class="t1">
+
+<div class="t2">
+
+
+
+
+<!-- ~~~editable_list_content_start~~~ -->
+
+<ul>
+
+<li>Results disaggregated by 5-year fine age categories are not shown for:</li>
+
+<ul>
+
+<li>Prior to 2019Q1, when 5-year fine age disaggregations were rolled out</li>
+
+<li>2019Q1 and after for IMs that reported data in Coarse, Semi-fine (2017), or Fine (2018) age disaggregations</li>
+
+</ul>
+
+<li>Data are not shown for IMs that reported targets or results as Unknown Age or Total Numerator/Denominator for the following indicators: HTS_TST, HTS_TST_POS, TX_NEW, TX_CURR, TX_PVLS</li>
+
+<li>Data disaggregated by sex are not shown for:</li>
+
+<ul>
+
+<li>Prior to 2019Q1: IMs that reported data as Unknown Sex for ages 10 and above</li>
+
+<li>2019Q1 and after: IMs that reported data as Unknown Sex for any age</li>
+
+</ul>
+
+<li>Caution should be exercised in the interpretation of trends of integer indicators (e.g HTS_TST_POS, TX_NEW, TX_CURR) by age/sex group. If reported age/sex groups change over time, this could cause increases or decreases in age/sex-specific trends. For example:   </li>
+
+<li>Retention proxy and Net gain/loss metrics are based on changes in TX_CURR over time. For this reason, caution should be exercised in interpreting these metrics for new or modified age/sex groups. The first period that an age/sex group is reported, the Retention proxy will be extremely high because the TX_CURR for that group changed from zero (it was not reported) to a positive number (it is reported). </li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+<button class="accordion">    
+
+
+
+<!-- ~~~editable_panel_title_start~~~ -->
+References
+<!-- ~~~editable_panel_title_end~~~ -->
+
+
+
+</button>
+<div class="panel">
+
+<p>
+
+<!-- ~~~editable_panel_content_start~~~ -->
+
+MER Indicator Reference Guide
+<!-- ~~~editable_panel_content_end~~~ -->
+
+
+<!-- ~~~editable bottom~~~ -->
+
+
+
+</p>
+</div>
+
+
+ <!-- Java script that makes the panels expand and collapse -->
+<script>
+  // W3C's JS Code
+  var acc = document.getElementsByClassName("accordion");
+  var i;
+
+  // Open the first accordion
+  var firstAccordion = acc[0];
+  // var firstPanel = firstAccordion.nextElementSibling;
+  // firstAccordion.classList.add("active");
+  // firstPanel.style.maxHeight = firstPanel.scrollHeight + "px";
+
+  // Add onclick listener to every accordion element
+  for (i = 0; i < acc.length; i++) {
+    acc[i].onclick = function() {
+      // For toggling purposes detect if the clicked section is already "active"
+      var isActive = this.classList.contains("active");
+
+      // Close all accordions
+      var allAccordions = document.getElementsByClassName("accordion");
+      for (j = 0; j < allAccordions.length; j++) {
+        // Remove active class from section header
+        allAccordions[j].classList.remove("active");
+
+        // Remove the max-height class from the panel to close it
+        var panel = allAccordions[j].nextElementSibling;
+        var maxHeightValue = getStyle(panel, "maxHeight");
+
+      if (maxHeightValue !== "0px") {
+          panel.style.maxHeight = null;
+        }
+      }
+
+      // Toggle the clicked section using a ternary operator
+      isActive ? this.classList.remove("active") : this.classList.add("active");
+
+      // Toggle the panel element
+      var panel = this.nextElementSibling;
+      var maxHeightValue = getStyle(panel, "maxHeight");
+
+      if (maxHeightValue !== "0px") {
+        panel.style.maxHeight = null;
+      } else {
+        panel.style.maxHeight = panel.scrollHeight + "px";
+      }
+    };
+  }
+
+  // Cross-browser way to get the computed height of a certain element. Credit to @CMS on StackOverflow (http://stackoverflow.com/a/2531934/7926565)
+  function getStyle(el, styleProp) {
+  var value, defaultView = (el.ownerDocument || document).defaultView;
+  // W3C standard way:
+  if (defaultView && defaultView.getComputedStyle) {
+    // sanitize property name to css notation
+    // (hypen separated words eg. font-Size)
+    styleProp = styleProp.replace(/([A-Z])/g, "-$1").toLowerCase();
+    return defaultView.getComputedStyle(el, null).getPropertyValue(styleProp);
+  } else if (el.currentStyle) { // IE
+    // sanitize property name to camelCase
+    styleProp = styleProp.replace(/\-(\w)/g, function(str, letter) {
+      return letter.toUpperCase();
+    });
+    value = el.currentStyle[styleProp];
+    // convert other units to pixels on IE
+    if (/^\d+(em|pt|%|ex)?$/i.test(value)) {
+      return (function(value) {
+        var oldLeft = el.style.left, oldRsLeft = el.runtimeStyle.left;
+        el.runtimeStyle.left = el.currentStyle.left;
+        el.style.left = value || 0;
+        value = el.style.pixelLeft + "px";
+        el.style.left = oldLeft;
+        el.runtimeStyle.left = oldRsLeft;
+        return value;
+      })(value);
+    }
+    return value;
+  }
+}
+
+// Creating animation of column 2 in the Analytic framework to flip on click
+
+
+</script>
+
+
+
+</body>
+
+<!-- Copy-paste stuff above this for Dossier html box-->
+
+
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+</html>
